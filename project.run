@@ -1,0 +1,11 @@
+#!/bin/bash
+
+runai submit \
+  --run-as-user \
+  --image nvcr.io/nvidia/ai-workbench/pytorch:1.0.6 \
+  --gpu 1 \
+  --pvc home:${HOME} \
+  -e HOME=${HOME} \
+  --command -- python3 ~/project/MLM.py \
+  --dataset_path ~/ \
+  --results_path ~/project/results
