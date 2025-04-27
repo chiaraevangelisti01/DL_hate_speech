@@ -1,11 +1,13 @@
 #!/bin/bash
 
+# Commande runai avec redirections
 runai submit \
   --run-as-user \
-  --image nvcr.io/nvidia/ai-workbench/pytorch:1.0.6 \
+  --image registry.rcp.epfl.ch/ee-559-mhueber/my-toolbox:v0.5 \
   --gpu 1 \
-  --pvc home:${HOME} \
-  -e HOME=${HOME} \
-  --command -- python3 ~/project/MLM.py \
-  --dataset_path ~/ \
-  --results_path ~/project/results
+  --pvc home:/pvc/home \
+  -e HOME=/home/mhueber \
+  --command -- bash -c "PYTHONPATH=/pvc/home/DL_hate_speech python3 /pvc/home/DL_hate_speech/scripts/Classifier.py \
+  --model_path /pvc/home/DL_hate_speech/models \
+  > /pvc/home/DL_hate_speech/results/logs/stdout.txt 2> /pvc/home/DL_hate_speech/results/logs/stderr.txt"
+

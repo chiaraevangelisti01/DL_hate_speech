@@ -1,0 +1,18 @@
+# Fichiers temporaires et caches
+__pycache__/
+*.pyc
+*.pyo
+
+# Environnements virtuels
+venv/
+.env
+
+# Logs et fichiers de debug
+*.log
+/results/logs/
+
+# Configurations d'IDE
+.vscode/
+.idea/
+
+models/
