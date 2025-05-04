@@ -9,7 +9,7 @@ venv/
 
 # Logs et fichiers de debug
 *.log
-/results/logs/
+/results/
 
 # Configurations d'IDE
 .vscode/
