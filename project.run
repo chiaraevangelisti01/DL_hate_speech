@@ -1,23 +1,23 @@
 #!/bin/bash
 
 # Commande runai avec redirections
-runai submit \
-  --run-as-user \
-  --image registry.rcp.epfl.ch/ee-559-cevangel/my-toolbox:v0.6 \
-  --gpu 1 \
-  --pvc home:/pvc/home \
-  -e HOME=/home/cevangel \
-  --command -- bash -c "PYTHONPATH=/pvc/home/DL_hate_speech python3 /pvc/home/DL_hate_speech/scripts/test.py \
-  --model_path /pvc/home/DL_hate_speech/models \
-  > /pvc/home/DL_hate_speech/results/logs/stdout.txt 2> /pvc/home/DL_hate_speech/results/logs/stderr.txt"
-
-#interactive job
 # runai submit \
 #   --run-as-user \
-#   --image registry.rcp.epfl.ch/ee-559-cevangel/my-toolbox:v0.5 \
+#   --image registry.rcp.epfl.ch/ee-559-cevangel/my-toolbox:v0.6 \
 #   --gpu 1 \
 #   --pvc home:/pvc/home \
 #   -e HOME=/home/cevangel \
-#   --interactive --attach
+#   --command -- bash -c "PYTHONPATH=/pvc/home/DL_hate_speech python3 /pvc/home/DL_hate_speech/scripts/test.py \
+#   --model_path /pvc/home/DL_hate_speech/models \
+#   > /pvc/home/DL_hate_speech/results/logs/stdout.txt 2> /pvc/home/DL_hate_speech/results/logs/stderr.txt"
+
+#interactive job
+runai submit \
+  --run-as-user \
+  --image registry.rcp.epfl.ch/ee-559-cevangel/my-toolbox:v0.7 \
+  --gpu 1 \
+  --pvc home:/pvc/home \
+  -e HOME=/home/cevangel \
+  --interactive --attach
 
 
