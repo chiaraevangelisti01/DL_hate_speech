@@ -9,20 +9,20 @@ import json
 def load_model(model_name,mlm=False,MODEL_DIR=None,num_classes=2):
     if mlm:
         if model_name.startswith("bert"):
-            tokenizer = BertTokenizer.from_pretrained(model_name)
-            model = BertForMaskedLM.from_pretrained(model_name)
+            tokenizer = BertTokenizer.from_pretrained(model_name,output_attentions=True)
+            model = BertForMaskedLM.from_pretrained(model_name,output_attentions=True)
         elif model_name.startswith("roberta"):
-            tokenizer = RobertaTokenizer.from_pretrained(model_name)
-            model = RobertaForMaskedLM.from_pretrained(model_name)
+            tokenizer = RobertaTokenizer.from_pretrained(model_name,output_attentions=True)
+            model = RobertaForMaskedLM.from_pretrained(model_name,output_attentions=True)
     else:
         if MODEL_DIR is None:
             raise ValueError("MODEL_DIR must be specified for loading the classifier model.")
         if model_name.startswith("bert"):
             tokenizer = BertTokenizer.from_pretrained(Path(MODEL_DIR+"_tokenizer"))
-            model = BertForSequenceClassification.from_pretrained(Path(MODEL_DIR+"_model"), num_labels=num_classes)
+            model = BertForSequenceClassification.from_pretrained(Path(MODEL_DIR+"_model"), num_labels=num_classes,output_attentions=True)
         elif model_name.startswith("roberta"):
             tokenizer = RobertaTokenizer.from_pretrained(Path(MODEL_DIR+"_tokenizer"))
-            model = RobertaForSequenceClassification.from_pretrained(Path(MODEL_DIR+"_model"), num_labels=num_classes)
+            model = RobertaForSequenceClassification.from_pretrained(Path(MODEL_DIR+"_model"), num_labels=num_classes,output_attentions=True)
     return model, tokenizer
 
 def load_mlm(tokenizer):

@@ -86,7 +86,7 @@
 # if __name__ == "__main__":
 #     main()
 
-# %% [1] Imports
+
 from transformers import (
     BertTokenizer, BertForSequenceClassification, BertForMaskedLM,
     RobertaTokenizer, RobertaForSequenceClassification, RobertaForMaskedLM
@@ -98,14 +98,14 @@ import torch
 from pathlib import Path
 from datasets import load_dataset
 from src.load_data import load_model
+import os
 
-# %% [2] Configuration (replace argparse)
 model_path = "/pvc/home/DL_hate_speech/models"
 model_name = "bert-base-uncased"
 task = "clf2"
 num_samples = 1
 
-# %% [3] Utility Functions
+
 def load_test_sentence(tokenizer, task):
     dataset = load_dataset('AstroAure/dogwhistle_dataset')
     split = "test_bhr" 
@@ -119,10 +119,14 @@ def visualize_attention(model, tokenizer, text, is_mlm):
         outputs = model(**inputs, output_attentions=True)
     tokens = tokenizer.convert_ids_to_tokens(input_ids[0])
     attention = outputs.attentions
-    display(head_view(attention, tokens))
+
+    html = head_view(attention, tokens, html_action='return')
+   
+    with open("/pvc/home/DL_hate_speech/tmp_eval/attention_viz.html", "w", encoding='utf-8') as f:
+        f.write(html.data)
     print("\nSentence:\n", text)
 
-# %% [4] Load model and tokenizer
+
 if task == "mlm":
     if "roberta" in model_name:
         model = RobertaForMaskedLM.from_pretrained(Path(model_path) / f"fine_tuned_mlm_{model_name}_model", output_attentions=True)
@@ -152,7 +156,7 @@ elif task == "clf2":
     model.eval()
     is_mlm = False
 
-# %% [5] Visualize
+
 for i in range(num_samples):
     text = load_test_sentence(tokenizer, task)
     visualize_attention(model, tokenizer, text, is_mlm)

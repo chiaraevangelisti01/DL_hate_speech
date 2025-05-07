@@ -3,7 +3,7 @@
 # Commande runai avec redirections
 # runai submit \
 #   --run-as-user \
-#   --image registry.rcp.epfl.ch/ee-559-cevangel/my-toolbox:v0.6 \
+#   --image registry.rcp.epfl.ch/ee-559-cevangel/my-toolbox:v0.7 \
 #   --gpu 1 \
 #   --pvc home:/pvc/home \
 #   -e HOME=/home/cevangel \
