@@ -1,75 +1,85 @@
-
-
 from transformers import (
-    BertTokenizer, BertForSequenceClassification, BertForMaskedLM,
-    RobertaTokenizer, RobertaForSequenceClassification, RobertaForMaskedLM
+    BertTokenizer, BertForMaskedLM, BertForSequenceClassification,
+    RobertaTokenizer, RobertaForMaskedLM, RobertaForSequenceClassification
 )
-from bertviz import head_view
-from IPython.display import display
-import random
-import torch
-from pathlib import Path
+from bertviz import head_view, model_view
 from datasets import load_dataset
+from pathlib import Path
+import torch
+import random
 from src.load_data import load_model
-import os
-
-model_path = "/pvc/home/DL_hate_speech/models"
-model_name = "bert-base-uncased"
-task = "clf2"
-num_samples = 1
 
 
-def load_test_sentence(tokenizer, task):
+# --- CONFIG ---
+MODEL_PATH = "/pvc/home/DL_hate_speech/models"
+MODEL_NAME = "bert-base-uncased"  # or "roberta-base"
+VIS_TYPE = "head"  # choose "head" or "model"
+SAVE_DIR = Path("/pvc/home/DL_hate_speech/tmp_eval/")
+SAVE_DIR.mkdir(parents=True, exist_ok=True)
+TASKS = ["mlm", "clf1", "clf2"]
+
+
+# --- HELPERS ---
+def load_sentence():
     dataset = load_dataset('AstroAure/dogwhistle_dataset')
-    split = "test_bhr" 
-    sample = random.choice(dataset[split])
-    return sample["text"] if "text" in sample else sample["content"]
+    sample = random.choice(dataset['test_bhr'])
+    return sample.get("text") or sample.get("content")
 
-def visualize_attention(model, tokenizer, text, is_mlm):
-    inputs = tokenizer.encode_plus(text, return_tensors='pt', return_attention_mask=True)
+
+def get_tokenizer():
+    if "roberta" in MODEL_NAME:
+        return RobertaTokenizer.from_pretrained(f"{MODEL_PATH}/fine_tuned_mlm_{MODEL_NAME}_tokenizer")
+    else:
+        return BertTokenizer.from_pretrained(f"{MODEL_PATH}/fine_tuned_mlm_{MODEL_NAME}_tokenizer")
+
+
+def load_model_for_task(task):
+    if task == "mlm":
+        if "roberta" in MODEL_NAME:
+            return RobertaForMaskedLM.from_pretrained(f"{MODEL_PATH}/fine_tuned_mlm_{MODEL_NAME}_model")
+        else:
+            return BertForMaskedLM.from_pretrained(f"{MODEL_PATH}/fine_tuned_mlm_{MODEL_NAME}_model")
+    else:
+        num_classes = 2 if task == "clf1" else 17
+        model, _ = load_model(
+            model_name=MODEL_NAME,
+            mlm=False,
+            MODEL_DIR=f"{MODEL_PATH}/fine_tuned_classifier_{task[-1]}_{MODEL_NAME}",
+            num_classes=num_classes
+        )
+        return model
+
+
+def visualize(model, tokenizer, sentence, task, vis_type):
+    inputs = tokenizer.encode_plus(sentence, return_tensors='pt', return_attention_mask=True)
     input_ids = inputs['input_ids']
+    tokens = tokenizer.convert_ids_to_tokens(input_ids[0])
+
     with torch.no_grad():
         outputs = model(**inputs, output_attentions=True)
-    tokens = tokenizer.convert_ids_to_tokens(input_ids[0])
+
     attention = outputs.attentions
 
-    html = head_view(attention, tokens, html_action='return')
-   
-    with open("/pvc/home/DL_hate_speech/tmp_eval/attention_viz.html", "w", encoding='utf-8') as f:
-        f.write(html.data)
-    print("\nSentence:\n", text)
-
-
-if task == "mlm":
-    if "roberta" in model_name:
-        model = RobertaForMaskedLM.from_pretrained(Path(model_path) / f"fine_tuned_mlm_{model_name}_model", output_attentions=True)
-        tokenizer = RobertaTokenizer.from_pretrained(Path(model_path) / f"fine_tuned_mlm_{model_name}_tokenizer")
+    if vis_type == "head":
+        html = head_view(attention, tokens, html_action='return')
+    elif vis_type == "model":
+        html = model_view(attention=attention, tokens=tokens, html_action='return')
     else:
-        model = BertForMaskedLM.from_pretrained(Path(model_path) / f"fine_tuned_mlm_{model_name}_model", output_attentions=True)
-        tokenizer = BertTokenizer.from_pretrained(Path(model_path) / f"fine_tuned_mlm_{model_name}_tokenizer")
-    is_mlm = True
+        print(f"[!] Unsupported visualization type: {vis_type}. Skipping {task}.")
+        return
 
-elif task == "clf1":
-    model, tokenizer = load_model(
-        model_name=model_name,
-        mlm=False,
-        MODEL_DIR=str(Path(model_path) / f"fine_tuned_classifier_1_{model_name}"),
-        num_classes=2
-    )
-    model.eval()
-    is_mlm = False
-
-elif task == "clf2":
-    model, tokenizer = load_model(
-        model_name=model_name,
-        mlm=False,
-        MODEL_DIR=str(Path(model_path) / f"fine_tuned_classifier_2_{model_name}"),
-        num_classes=17  # update if different
-    )
-    model.eval()
-    is_mlm = False
+    file = SAVE_DIR / f"{vis_type}_{task}.html"
+    with open(file, "w", encoding="utf-8") as f:
+        f.write(html.data)
+    print(f"[✓] Saved {vis_type} view for {task} → {file.name}")
 
 
-for i in range(num_samples):
-    text = load_test_sentence(tokenizer, task)
-    visualize_attention(model, tokenizer, text, is_mlm)
+# --- MAIN EXECUTION ---
+sentence = load_sentence()
+tokenizer = get_tokenizer()
+
+for task in TASKS:
+    model = load_model_for_task(task)
+    visualize(model, tokenizer, sentence, task, VIS_TYPE)
+
+print("\n✅ All visualizations complete.")
