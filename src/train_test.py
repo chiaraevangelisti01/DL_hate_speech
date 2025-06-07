@@ -5,6 +5,10 @@ import matplotlib.pyplot as plt
 import json
 import numpy as np
 
+"""
+This module provides functions to train and evaluate models using the Hugging Face Transformers library.
+It includes functions for training a model, computing evaluation metrics, and generating confusion matrices.
+"""
 def train_model(model, tokenizer, train_dataset, eval_dataset, output_dir="./results", epochs=3,mlm=False):
     """
     Train a model using the provided datasets and configurations.
@@ -49,6 +53,10 @@ def train_model(model, tokenizer, train_dataset, eval_dataset, output_dir="./res
 def compute_metrics(pred):
     """
     Compute evaluation metrics (accuracy, precision, recall, f1) from predictions.
+    Args:
+        pred: The predictions from the model, containing label_ids and predictions.
+    Returns:
+        metrics (dict): A dictionary containing accuracy, precision, recall, and f1 score.
     """
     labels = pred.label_ids
     preds = np.argmax(pred.predictions, axis=1)
@@ -65,7 +73,7 @@ def compute_metrics(pred):
         "f1": f1
     }
 
-def evaluate_model(model, tokenizer, eval_dataset,name="", batch_size=16,labels_list=None):
+def evaluate_model(model, tokenizer, eval_dataset,results_path,name="", batch_size=16,labels_list=None):
     """
     Evaluate a model using the provided evaluation dataset.
     Args:
@@ -80,7 +88,7 @@ def evaluate_model(model, tokenizer, eval_dataset,name="", batch_size=16,labels_
     """
 
     eval_args = TrainingArguments(
-        output_dir="./tmp_eval",    # temporary output
+        output_dir="./tmp_eval",    
         per_device_eval_batch_size=batch_size,
         do_train=False,
         do_eval=True,
@@ -100,8 +108,9 @@ def evaluate_model(model, tokenizer, eval_dataset,name="", batch_size=16,labels_
     for key, value in metrics.items():
         print(f"  {key}: {value:.4f}")
 
+
     # Save metrics to a JSON file
-    metrics_path = f"/pvc/home/DL_hate_speech/results/metrics_{name}.json"
+    metrics_path = f"{results_path}/metrics_{name}.json"
     with open(metrics_path, "w") as f:
         json.dump(metrics, f, indent=4)
 
@@ -109,10 +118,14 @@ def evaluate_model(model, tokenizer, eval_dataset,name="", batch_size=16,labels_
     preds_output = trainer.predict(eval_dataset)
     labels = preds_output.label_ids
     preds = np.argmax(preds_output.predictions, axis=1)
+    if labels_list is not None:
+        used_labels = sorted(set(labels) | set(preds))
+        labels_list = [labels_list[i] for i in used_labels]
 
 
     fig, ax = plt.subplots(figsize=(10, 8))
     cm = confusion_matrix(labels, preds)
+        
     disp = ConfusionMatrixDisplay(confusion_matrix=cm,display_labels=labels_list)
     disp.plot(cmap="Blues", ax=ax,values_format='d')
     if labels_list is not None and len(labels_list) > 2:
@@ -120,6 +133,6 @@ def evaluate_model(model, tokenizer, eval_dataset,name="", batch_size=16,labels_
         
     plt.title("Confusion Matrix")
     plt.tight_layout()
-    plt.savefig("/pvc/home/DL_hate_speech/results/confusion_matrix_"+name+".png")
+    plt.savefig(f"{results_path}/confusion_matrix_{name}.png")
 
     return metrics

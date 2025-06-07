@@ -1,5 +1,28 @@
 import re 
 import numpy as np
+import random
+import torch
+
+"""
+This module provides utility functions used across various parts of the project.
+"""
+
+def set_seed(seed):
+    """
+    Set the random seed for reproducibility across different libraries.
+    Args:
+        seed (int): The seed value to set for random number generation.
+    """
+    if seed is None:
+        seed = 42  # Default seed value if none is provided
+    
+    random.seed(seed)
+    np.random.seed(seed)
+    torch.manual_seed(seed)
+    torch.cuda.manual_seed_all(seed)
+    torch.backends.cudnn.deterministic = True  
+    torch.backends.cudnn.benchmark = False
+
 
 
 def clean_text(text):

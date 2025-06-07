@@ -1,0 +1,10 @@
+torchaudio==2.5.1
+evaluate==0.4.3
+accelerate>=0.26.0
+nltk==3.9.1
+sentence-transformers
+transformers
+datasets
+hf_xet
+matplotlib
+bertviz==1.4.0

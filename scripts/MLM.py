@@ -11,15 +11,17 @@ from src.train_test import *
 from src.load_data import *
 
 def parse_args():
-    #when working with python files from console it's better to specify
     parser = argparse.ArgumentParser(description="File creation script.")
     parser.add_argument("--model_path", required=True, help="Directory to save the model")
-    parser.add_argument("--model_name", default = "bert-base-uncased", help="Name of the model to be used")
+    parser.add_argument("--model_name", default = "roberta-base", help="Name of the model to be used")
     args = parser.parse_args()
 
     return args.model_path,args.model_name
 
 if __name__ == "__main__":
+
+    print("***** Training with Masked Language Modeling (MLM) *****")
+    set_seed(42)  # For reproducibility
 
     print("GPU available:", torch.cuda.is_available())
     print("Device name:", torch.cuda.get_device_name(0) if torch.cuda.is_available() else "CPU")
@@ -40,7 +42,7 @@ if __name__ == "__main__":
         output_dir="./results",
         mlm=True,
     )
-    #Save model 
+
     print("Saving model...")
     model.save_pretrained(Path(MODEL_DIR+"/fine_tuned_mlm_"+model_name+"_model"))
     tokenizer.save_pretrained(Path(MODEL_DIR+"/fine_tuned_mlm_"+model_name+"_tokenizer"))
