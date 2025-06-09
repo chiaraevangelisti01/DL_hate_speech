@@ -1,0 +1,449 @@
+***** Evaluating Classifier 1 (dog-whistle vs non-dog-whistle) *****
+ Checking for misclassified sentences...
+ Sentence: part of this work will be to revisit some of the elements of this bill as well as to encourage employers to continue to offer retirement plans to hardworking americans
+  Predicted: 1 | True: 0
+
+ Sentence: so much of the altright is a bunch of socialists who need physical removal along with the few who think that we should make legislation hiring for major companies and the like on the basis of race
+  Predicted: 0 | True: 1
+
+ Sentence: criminal threats deported first then anyone who is leeching off social programs are next finally he said the only path to legality for any other illegal immigrant is to leave the country and reapply for lawful entry
+  Predicted: 1 | True: 0
+
+ Sentence: hes right few initiatives would stimulate growth and investment in the economy like a capital gains tax cut our legislation includes a bill introduced by senator bumpers in the previous congress that allows investors in small business ventures to receive a percent reduction in capital gains tax on investments held for years
+  Predicted: 0 | True: 1
+
+ Sentence: it has led to these huge deficits as supplyside economics with its tax cuts for the wealthy and the increase now in milimay
+  Predicted: 0 | True: 1
+
+ Sentence: members of this body who support the restoration of personal property rights contained in this amendment
+  Predicted: 0 | True: 1
+
+ Sentence: there are now new reports that at some segments of the border illegal immigrants are being released into the interior of the united states without receiving a notice to appear in immigration court
+  Predicted: 0 | True: 1
+
+ Sentence: all federal agencies are making decisions on the use of land and resources in unquestioning response to an illconceived environmental agenda which ignores the human side of the equation and disregards the concept of private property rights
+  Predicted: 0 | True: 1
+
+ Sentence: bringing it to by and includes a package of small business tax cuts that will help small businesses create more and better paying jobs
+  Predicted: 1 | True: 0
+
+ Sentence: this important measure represents a bipartisan commitment to help hardworking americans weather these turbulent economic times
+  Predicted: 1 | True: 0
+
+ Sentence: oy vey i know that you black shmucks are being oppressed too but have you heard about muh antisemitic goyims remember the six gorillion judes who got gassed to death in the rollercoaster of death
+  Predicted: 1 | True: 0
+
+ Sentence: both at the border and in the interior of the us and especially with regards to employer sanctions was mandated to eliminate the jobs magnet for so many illegal immigrants
+  Predicted: 1 | True: 0
+
+ Sentence: antifa is also teaming up with ms to come to your house and force your wife to have an abortion after that they will tie you down and allow an illegal immigrant to play catch with your son they will tell him about the benefits of marxism and why capitalism is incompatible with the concepts of democracy and equality
+  Predicted: 1 | True: 0
+
+ Sentence: six taxexempt foundations were used to funnel money for political purposes i know we have talked about tax cuts in this congress but that is the ultimate tax cut before we have even voted on it
+  Predicted: 1 | True: 0
+
+ Sentence: your fiscal irresponsibility sees no bounds you come here today defending a tax cut years away from now half of which more or less goes to people making million
+  Predicted: 1 | True: 0
+
+ Sentence: nationalism is colorblind and a good thing for a nation to have the president should always be the most outspoken nationalist in the nation
+  Predicted: 1 | True: 0
+
+ Sentence: instead our black student union did all of the speaking it was mostly about blm and we even had a speech about why alllivesmatter is racist nobody seeemed to have a problem with it either a lot of kids said it was great that were being educated on current issues and the school facebook page is deleting all critical comments
+  Predicted: 0 | True: 1
+
+ Sentence: going out of business auction brochures he would say we need to do more tax cuts for the wealthy maybe some of it will trickle down and create jobs
+  Predicted: 0 | True: 1
+
+ Sentence: she left sf good sign she didnt downplay that trump is the cause of her bonus good sign shes taking you to a place where they serve animals cooked over fire good sign now maga young buck
+  Predicted: 0 | True: 1
+
+ Sentence: have created an opportunity for the president of the united states to appoint men more in accord with the great principles of progress of this day and age and of the newdeal policy of placing human rights above property rights
+  Predicted: 0 | True: 1
+
+ Sentence: this is the amount of money the united states of america has borrowed from foreign countries to fund tax cuts in this country for folks earning over a year
+  Predicted: 1 | True: 0
+
+ Sentence: this is the result of laws passed by democrats to allow victims of dv and rape to stay in the country illegal is illegal if an illegal immigrant is raped the rapist should be punished and the illegal immigrant should be deported
+  Predicted: 0 | True: 1
+
+ Sentence: the text is black and the background is white even a colorblind person could see how black and white it is
+  Predicted: 1 | True: 0
+
+ Sentence: yet youre still too eager to please them with colorblind ideology while throwing gyopo under the bus i previously thought there was hope for you because you seem to show interest in this sub but now i see you dont even learn anything at all from here why do you come here
+  Predicted: 1 | True: 0
+
+ Sentence: and it also guts the ability to end the catch and release of illegal immigrants caught along our borders
+  Predicted: 1 | True: 0
+
+ Sentence: really as long as the social mood of the country is so good r selected in rk theory terms covert physical removal is pretty much the only solution until things inevitably switch to k and the problem takes care of itself
+  Predicted: 0 | True: 1
+
+ Sentence: and i am persuaded that the time has come for such a provision no one questions why america has a problem with illegal immigrants we are the most prosperous and promising nation in the worldthe golden land of opportunity
+  Predicted: 1 | True: 0
+
+ Sentence: oy vey you stupid goy it was actually quidtriggavabillionjillion now beat yourself to death before i call you out as a nazi on jewtube
+  Predicted: 1 | True: 0
+
+ Sentence: i dont assume proud boys are ancaps but ancaps have been fans of physical removal of communists for ages and the whole shouting that antifa and communist get helicopter rides has been an ancap thing for some time though maybe the proud boys are also fans of offering antifa helicopter rides
+  Predicted: 0 | True: 1
+
+ Sentence: have the feeling that more and more cuckservatives are shilling to derail this forums support on trump or falsely equating supporting gop is support trump
+  Predicted: 1 | True: 0
+
+ Sentence: they have a clear identifier that they can put on for preferential treatment the switch is something to behold one second its how do you do fellow whites the next is oy vey anti semite please direct me to the nearest business opportunity
+  Predicted: 0 | True: 1
+
+ Sentence: okay but thats not the point the point is you cant really support a minimum wage and illegal immigrant labor one is meant to fight exploitation of workers and the other is exactly that and instituting a minimum wage and getting rid of immigrant labor both have negative effects on the people and the economy and not really trump has a lot of talking points yes crime is one of them which hes not wrong on another is simply that its wrong
+  Predicted: 1 | True: 0
+
+ Sentence: nope lesbian is a descriptor for homosexual women homosexual means same sex attracted transwomen are biological men so cannot be lesbians
+  Predicted: 1 | True: 0
+
+ Sentence: we must can we do this without undermining private property rights and putting whole communities at risk we had better
+  Predicted: 0 | True: 1
+
+ Sentence: those have helped reduce costs to the american consumer by for a family of four that is equal to more than we have given in tax cuts in recent years to american families think of the good that comes to the economy because we have an opportunity to export and our consumers have an opportunity to import
+  Predicted: 1 | True: 0
+
+ Sentence: as a libertarian i believe that workers can be rightly fired for any reason including offending the religious and moral beliefs of their employer morality always comes down to the enforcement of property rights
+  Predicted: 0 | True: 1
+
+ Sentence: we have no way of going to the american people and asking for tax cuts and reduction of jobs and creating havoc with their economic lives
+  Predicted: 1 | True: 0
+
+ Sentence: he hasnt said anything disparaging against them its a big media lie repeated times to make it true hillary on the other hand had called blacks superpredators and spoke out against gay marriage in the notsodistant past thank god shes history now the inverse truth presented by the media is the only consistency they know its apalling
+  Predicted: 0 | True: 1
+
+ Sentence: a child of an illegal immigrant who has cholera could well be the source of great damage and harm to a whole community
+  Predicted: 1 | True: 0
+
+ Sentence: but do you know who i want to thank more than anybody else the hardworking american taxpayers by our constitution
+  Predicted: 1 | True: 0
+
+ Sentence: the council of is a good place to start but lets not forget the cfr trilateral commission and such groups
+  Predicted: 0 | True: 1
+
+ Sentence: trade adjustment assistancebetter known as taaplays an essential role in helping hardworking americans who through no fault of their own lose their jobs as the result of what is often unfair foreign competition
+  Predicted: 1 | True: 0
+
+ Sentence: cognitive dissonance was reading someone justifying their employment of an illegal immigrant as a housekeeper because they couldnt find anyone white who was cheaper or harder working but weve gotta send all the illegalsrefugeesasylum seekers back where they came from
+  Predicted: 0 | True: 1
+
+ Sentence: without judeochristian philosophy we lose a major justification for the sovereignty of the individual and now we need a different justification
+  Predicted: 1 | True: 0
+
+ Sentence: what we do is we broadly give the ability to violate property rights through the heritage area laws so people can access private property without permission
+  Predicted: 0 | True: 1
+
+ Sentence: and fact this bill is a tax cut and a spending cut and thats why it has the support of groups like the americans for tax reform
+  Predicted: 1 | True: 0
+
+ Sentence: why do cuckservatives claim ilhan married her brother what the fuck is this whole thing about its so creepy and bizarre
+  Predicted: 1 | True: 0
+
+ Sentence: this bill is a dream come true but if they are a typical hardworking american trying to support their family this bill is a nightmare
+  Predicted: 1 | True: 0
+
+ Sentence: tax composition the presidents fiscal proposals for automobile excise tax cuts and huge investment incentives reflect a distorted sense of the priorities of the nations needs
+  Predicted: 1 | True: 0
+
+ Sentence: the republicans are beginning to fear that they are not going to be able to win the presidents support for their tax cut plan for the rich
+  Predicted: 1 | True: 0
+
+ Sentence: add them to the list of people she disrespects so far we have half the republicans christians latino taco bowls black superpredators that should be brought to heel rape and sexual assault victims basement dwelling bernie supporters am i missing any of them on her respect list we have illegal immigrants saudi human rights violators wealthy corporations a kkk mentor child rapists a rapist shes married to and huma
+  Predicted: 0 | True: 1
+
+ Sentence: nah itll be more of a supply chain managementstrategylogistics game where to have to balance your expenses helicopter fleet and associated costs and your pilots guards etc to maximize the number of communists that get free rides itll be the factorio of physical removal
+  Predicted: 0 | True: 1
+
+ Sentence: defend seniors and fight these egregious tax cuts for the wealthiest people in our society make no mistake about it
+  Predicted: 1 | True: 0
+
+ Sentence: and we could have saved a billion dollars and postponed the percent tax cut which the home health industry is staring in the face next year
+  Predicted: 1 | True: 0
+
+ Sentence: they would cut the program to give tax breaks to wealthy people what else do they do with their tax cut plan they end up saying that a lot of corporations in america
+  Predicted: 1 | True: 0
+
+ Sentence: and the debate on it hale then turned to the change which the amendment would effect in state legislation over property rights
+  Predicted: 0 | True: 1
+
+ Sentence: on a side note i bet a father who signed the agreement this mother did would be called a deadbeat dad
+  Predicted: 1 | True: 0
+
+ Sentence: the top percent of americans by income received times as much in tax cuts as we spent in increased funding for homeland security over that year period
+  Predicted: 1 | True: 0
+
+ Sentence: its fucked up you dont even really own anything nowadays bought a car good pay a minimum of dollars a month on obligatory insurance and then a couple of extra hundreds of dollars on tax own a property oy vey dont forget to pay your yearly usd property tax
+  Predicted: 0 | True: 1
+
+ Sentence: criminal gt illegal alien gt illegal immigrant gt undocumented immigrant gt just doesnt have a valid ssn i heard the last one from a family member whos a dentist and volunteers to work in the lower lower income areas you heard it here first folks the mainstream media will be referring to these criminals as just not having a valid social security number within the next few years i guarantee it
+  Predicted: 1 | True: 0
+
+ Sentence: this budget would spend away all of the nonsocial security surplus in one fell swoop on a massive tax cut plan reminiscent of the early s
+  Predicted: 1 | True: 0
+
+ Sentence: by vetoing the extension of the tax cut the president has shown a careless disregard for the jobs of average americans
+  Predicted: 1 | True: 0
+
+ Sentence: my amendment would strike the tax reconciliation instructions to the finance committee that would shield tax cut legislation that worsens the deficit from a thorough debate in the senate
+  Predicted: 1 | True: 0
+
+ Sentence: preobamacare is also what im not hoping will happen why do so many cuckservatives like preobamacare yeah i like free market but preobamacare was not free market it was shitty insurance and a shitty system
+  Predicted: 1 | True: 0
+
+ Sentence: they saw their opportunity for expansion in financial trade and obviously sponsored all these foreign policy associationsthe trilateral commission and everything else
+  Predicted: 0 | True: 1
+
+ Sentence: words like g currencies words like intellectual property rights not words that you use around the dinner table every evening
+  Predicted: 1 | True: 0
+
+ Sentence: hr would change us law back to the reaganbush policy that was the law of the land for years and which hardly resulted in our nation being overrun by hordes of asylum seekers the house will next week consider legislation to crack down on illegal immigrants i am the first to say that illegal immigrants who have no grounds for asylum must be sent away
+  Predicted: 0 | True: 1
+
+ Sentence: that is the average tax cut that millionaires will see in their return the second number is
+  Predicted: 0 | True: 1
+
+ Sentence: full repeal provides benefits only to the wealthiest in our society the vast majority of the people i represent will receive no benefit from this tax cut at all according to the bipartisan congressional joint tax committee
+  Predicted: 1 | True: 0
+
+ Sentence: of course diminish the flow of illegal immigrants that would upset the democrats because they would say that this would impede their ability to gain potential voters
+  Predicted: 0 | True: 1
+
+ Sentence: he and other will be ungrateful for their tax cut reduce crime and the greater america to comethey cant even connect a few dots let alone mega
+  Predicted: 1 | True: 0
+
+ Sentence: this sounds like obama economy where theoretically you can fit a lot of jobs in reduced hours but theyre all service level deadbeat jobs tradeskills die in these conditions
+  Predicted: 0 | True: 1
+
+ Sentence: we think that hardworking american families deserve the right and the opportunity to continue their best wishes for their families
+  Predicted: 1 | True: 0
+
+ Sentence: there wasnt enough black winners so this year spike lee wins best new kids animation movie for his film do the right thing bix nood see the emoji movie in theaters this summer
+  Predicted: 0 | True: 1
+
+ Sentence: steven universe shes referring to the main cast calling them agender which is stupid considering both the main character and the main characters mom both gems fell in love with others
+  Predicted: 1 | True: 0
+
+ Sentence: you will vote for the north american freetrade agreement i would rather have mexicats working jobs in mexico than have illegal immigrants in los angeles new york city
+  Predicted: 1 | True: 0
+
+ Sentence: youre right but wed get labeled as transphobes because apparently girldick is a thing now note all dicks are males sexually genderly idk because i could literally get cancelled if i dont say being a nonbinary agender man is possible
+  Predicted: 1 | True: 0
+
+ Sentence: hell try to sell you on the idea that we should give a tax cut to the wealthy few while we cancel tax credits for the working poor
+  Predicted: 1 | True: 0
+
+ Sentence: gthe highlighted the chancellors decision in this months budget to give a tax cut to the rich rather than using that money to alleviate poverty for millions adding austerity could easily have spared the poor if the political will had existed to do so
+  Predicted: 1 | True: 0
+
+ Sentence: this republican congress continuing dysfunction and inability to govern are having real effects on hardworking americans
+  Predicted: 1 | True: 0
+
+ Sentence: fair and uncompromising manner would deter the hordes of illegal immigrants pouring into our country
+  Predicted: 1 | True: 0
+
+ Sentence: jones on glenn beck funny as hell and btfos cuckservatives like beck
+  Predicted: 1 | True: 0
+
+ Sentence: no caitlyn would have but just in the biological mens category its more insulting to trans athletes to tell them they can only win if they participate unfairly against people weaker and slower than them
+  Predicted: 1 | True: 0
+
+ Sentence: i would like to comment on the proposals which have been advanced by the distinguished senator from washington on his colorblind approach to the schooling issue
+  Predicted: 1 | True: 0
+
+ Sentence: my hometown murrieta was the place that forced the highway patrol busses full of illegal immigrant kids to turn around and go back to texas though so i imagine that mentality will align with voting for trump
+  Predicted: 0 | True: 1
+
+ Sentence: and that is the way the federal government should act i believe in tax cuts as a solution rather than a contributor to the deficits i credit president bushs tax cuts
+  Predicted: 1 | True: 0
+
+ Sentence: if i could turn back time that wont work there is always the chance one could get robbed and killed by an illegal immigrant
+  Predicted: 0 | True: 1
+
+ Sentence: finally i strongly believe that we should not fund tax cuts with welfare reform particularly considering the enormous deficit problem we are currently facing
+  Predicted: 1 | True: 0
+
+ Sentence: why do people treat alllivesmatter like its just whitelivesmatter does nobody give a shit about any other race do latinos asians or american indians not matter
+  Predicted: 0 | True: 1
+
+ Sentence: what is important about that is that they were cutting medicare billion to pay for a tax cut of about that amount
+  Predicted: 0 | True: 1
+
+ Sentence: five years ago the tucson sector of the border patrol apprehended over illegal immigrants in my community last year
+  Predicted: 0 | True: 1
+
+ Sentence: despite this extensive criminal history of approximately six prior deportations and no obligation to release this individual to local custody in san franciscoa jurisdiction that is known to release illegal immigrants back into the publicfederal authorities turned this individual over to san francisco on march
+  Predicted: 0 | True: 1
+
+ Sentence: this amendment would also reduce the tax cut by nearly billion and reduce the deficit by billion
+  Predicted: 1 | True: 0
+
+ Sentence: republicans would have seniors permanently pay increased medicare premiums for just one year of a payroll tax cut for working americans and a oneyear gutted extension of unemployment insurance
+  Predicted: 1 | True: 0
+
+ Sentence: that the most serious problem with the budget enforcement act is the fact that it may postpone tax cuts for their supporters
+  Predicted: 1 | True: 0
+
+ Sentence: an essential first step in lowering the deficit is to cancel the third year of the kemprothreagan tax cut
+  Predicted: 1 | True: 0
+
+ Sentence: am concerned when congress could avoid a bigger deficit by deferring tax cuts just for the wealthiest percent of our citizens
+  Predicted: 1 | True: 0
+
+ Sentence: gt what was that home building company that had a pro illegal immigrant superbowl commercial i wonder how their profits are doing now lumber no clue about how theyre doing now
+  Predicted: 0 | True: 1
+
+ Sentence: and she thinks her sister is the one who cant discuss politics rationally theyve really lost their minds how do they not believe trump is doing good things unemployment is down we got a tax cut even black unemployment is at its lowest what do these people want are these bad things to them
+  Predicted: 0 | True: 1
+
+ Sentence: what happens when you remove million illegal immigrant votes not to mention why the fuck do you want a child killing satanist as president are you some kind of sicko
+  Predicted: 1 | True: 0
+
+ Sentence: wasnt gonna watch minutes of this bitch but then those young bucks started talking stay strong buds yall are on the right side although when he said the security guards have no arms i laughed then thought of people who shoot bows with their feet accurately id be more afraid of a guy with no arms aiming me down with his feet
+  Predicted: 0 | True: 1
+
+ Sentence: at a time when he and the leadership of the other party are trying to give a billion tax cut that will mostly go to people who are already reasonably wealthy
+  Predicted: 1 | True: 0
+
+ Sentence: and while youre busy blaming old people the one percenters have just got another tax cut bought another house and are utilising tax havens and trusts
+  Predicted: 1 | True: 0
+
+ Sentence: people who are rich enough that they can get a tax cut of mil shouldnt exist in a world where medical bills for even the most basic things can bankrupt an average person housing is too expensive for most people to afford and your parents have to start setting aside money for their childrens college attendance before theyre even born
+  Predicted: 0 | True: 1
+
+ Sentence: i completely understand i still believe native europeans especially in the north can save themselves from ideocratic progressive liberalism but if all that fails islam is not a bad alternative i dont see myself converting but if its cultural influence keeps increasing ill likely just embrace it it strongly opposes all this insane leftism but it also despises tradcon judeochristian nonsense i share in this sentiment
+  Predicted: 1 | True: 0
+
+ Sentence: the john birch society found a communist under everybodys bed the trilateral commission infamously ruled the world our president
+  Predicted: 0 | True: 1
+
+ Sentence: roughly organizations think of the millions of hardworking american families represented by these organizations this coalition represents the lifeblood of our economy
+  Predicted: 1 | True: 0
+
+ Sentence: this type of behavior is just surrender its no different than a woman defending her abusive husband from the police swearing that hes really a good guy he just had a bad day at work your daughter gets murdered by an illegal immigrant and your first thought is to defend the people that murdered your daughter
+  Predicted: 0 | True: 1
+
+ Sentence: every preventable crime like an illegal immigrant murdering or a refugee raping someone should be reported because it never should have happened to citizens who have a reasonable expectation of protection by their government against foreign threats
+  Predicted: 0 | True: 1
+
+ Sentence: and rather than increase the tax burden congress needs to make tax relief permanent for hardworking american families by putting our fiscal house in order
+  Predicted: 1 | True: 0
+
+ Sentence: and i have heard loud and clear from my own constituents in georgia that they are worried that their property rights are in jeopardy
+  Predicted: 1 | True: 0
+
+ Sentence: hes a good person fordefending his junkie son maybe if he had some of that same compassion for the sons and daughters of other people instead of labeling them superpredators and trying to turn police into the sa id give him a bit of credit
+  Predicted: 0 | True: 1
+
+ Sentence: we are attempting to keep the promise that was broken by the president of the united states when he said we are going to give tax cuts to the middle class then he went and raised those taxes
+  Predicted: 1 | True: 0
+
+ Sentence: congress with regard to the most pressing issues confronting our country as it relates to this budget especially as it relates to those who have not benefited from the huge tax cuts mr speaker
+  Predicted: 1 | True: 0
+
+ Sentence: nimble america is an embarrassment to donald supporters not one single shekel was given to any shit posters despite the massive amount of meems we made get outta here ya goof
+  Predicted: 0 | True: 1
+
+ Sentence: and trying to gain power through that and through bringing in illegal immigrants into our voting system without background checks
+  Predicted: 0 | True: 1
+
+ Sentence: i prefer physical removal of leftists from helicopters but this works as long as the plane is off the ground
+  Predicted: 0 | True: 1
+
+ Sentence: lol is that cartoon supposed to depict trump in a negative light because whats depicted is exactly what i want to see including physical removal of communist news tards
+  Predicted: 0 | True: 1
+
+ Sentence: every member of this body that has given minutes of thought or study to the problem of illegal immigration knows that the ins cannot be expected to enforce the immigration laws with the funds it is given the flow of illegal immigrants has increased tenfold or more in the last decade despite reported pleas for help from ins officials
+  Predicted: 1 | True: 0
+
+ Sentence: i watched a white guy call a puerto rican woman a boarder jumping illegal immigrant shes not an illegal nor is she an immigrant same guy was yelling at a group of indian ppl all here legally but again he called them illegals lots of ppl have strong hatred towards immigrants illegal or not
+  Predicted: 0 | True: 1
+
+ Sentence: the bill is no better instead of punishing illegal immigrants and employers who ignore the law this bill is a getoutofjailfree pass
+  Predicted: 0 | True: 1
+
+ Sentence: one that meets the needs of ordinary hardworking americans and one that embraces opportunities for americans in the future rather than diminishing them
+  Predicted: 1 | True: 0
+
+ Sentence: her case is typical of many in my state and far too many other states where medicare fraud abuse has been reported hardworking americans are outraged by seeing their tax dollars lost to criminal fraud my amendment to the indian health bill will double the jail time
+  Predicted: 1 | True: 0
+
+ Sentence: they are proud american individuals hardworking americans who were willing to go out and provide for their families work hours a week
+  Predicted: 1 | True: 0
+
+ Sentence: oy vey but we need the sheckels from selling the foreskin to alist hollywood actors do you know that there are some cities without a holocaust museum please be careful with your words goyim
+  Predicted: 1 | True: 0
+
+ Sentence: if the announcement of the gender of a royal baby is literally the source of all your pain in his world your life is easy as fuck also how do these people convince themselves they really dont hate biological men or is it at the point they know they arent fooling anyone else either
+  Predicted: 1 | True: 0
+
+ Sentence: he said the one glaring difference between himself and democratic rival paul tsongas was his support for a middleclass tax cut
+  Predicted: 0 | True: 1
+
+ Sentence: isnt frisk supposed to be agender though totally not just a blank slate player character for the player to immerseve themselves in cmon guys get your headcanons straight
+  Predicted: 1 | True: 0
+
+ Sentence: at am on a friday in may the house passed the leave no millionaire behind tax cut bill by a handful of votes at am on a friday in june
+  Predicted: 0 | True: 1
+
+ Sentence: i must say dear sir that i have rarely encountered someone with such a firm command of ebonics bix nood
+  Predicted: 0 | True: 1
+
+ Sentence: to our hardworking americans i say today that this vote does not indicate that the members of congress will be at the beck and call of particular interest groups for increased funding
+  Predicted: 0 | True: 1
+
+ Sentence: some mexican officials work with the smugglers in return for cracking down on thirdcountry illegal immigrants mexico wants better treatment of mexican nationals who go north from time to time for temporary work
+  Predicted: 0 | True: 1
+
+ Sentence: the addition of more tax cuts in the next couple of years will raise the fiscal deficit even further
+  Predicted: 1 | True: 0
+
+ Sentence: mr speaker because it does not have a tax cut for the wealthy in it it does not have a tax cut at all
+  Predicted: 1 | True: 0
+
+ Sentence: gt the stupid endless wars for us are ending no more fighting wars for globalism no more wars to fight the enemies of israel we are in the future with technology theres no more reasons for war for the masses the wars are for those seeking power control and keeping the international banks afloat stop the madness thank you president trump
+  Predicted: 0 | True: 1
+
+ Sentence: it simply is wrong that an individual earning or in a year pays no taxes while a hardworking american citizen who earns a year
+  Predicted: 1 | True: 0
+
+ Sentence: a tax cut that cannot be justified when they are seeking the kinds of cuts that are in the social fabric of this country
+  Predicted: 1 | True: 0
+
+ Sentence: an illegal immigrant criminal killed an american with an illegal gun on accident or on purpose in the above statement what was racist
+  Predicted: 0 | True: 1
+
+ Sentence: i honestly believe we can do tax cuts this year if we just get our nerve back to control wasteful government spending
+  Predicted: 0 | True: 1
+
+ Sentence: as i have always said women dont want equality when it comes to the unglamorous dangerous work the average man does they want to be cardiologists and ceos they dont want to be contractors they dont want to work on oil rigs or soldiers dying for international banks
+  Predicted: 1 | True: 0
+
+ Sentence: there doesnt seem to be any reason outside of your personal preferences and mine too as i would like to always pay the lowest price but that doesnt trump basic property rights which also allow you to discriminate towards anyone using your home or your car
+  Predicted: 0 | True: 1
+
+ Sentence: how come if men arent ready to be fathers they are deadbeat dads and if women arent ready to be mothers thats just their choice
+  Predicted: 1 | True: 0
+
+ Sentence: this plus who do these multiple genders always benefit biological men do they think women in these countries get to identify out of their role as a baby factory its literally patriarchy manifesting in different ways around the world male supremacy will always be just that
+  Predicted: 1 | True: 0
+
+ Sentence: i think the message is being delivered to them that they can have it all that they can have massive tax cuts today and retirement security tomorrow when it is really their generation and the challenge that their generation poses that we need to come to grips with
+  Predicted: 1 | True: 0
+
+ Sentence: why on earth are you supporting this bill when these private property rights organizations are against it in america
+  Predicted: 1 | True: 0
+
+ Sentence: cuck has the connotation of having lost something you have to be cucked out of something that was previously yours or what you felt was important cuckservatives are conservatives being doormats for leftists and conceding ground
+  Predicted: 0 | True: 1
+
+ Sentence: her husband chose the illegal immigrant guatemalan maid over her a strange conundrum without immigration nobody would have ever married her he married her for her political connections due to immigration over the southern border her marriage fell apart like hillary clintons campaign
+  Predicted: 1 | True: 0
+
+ Sentence: it is only honest hardworking american people that will be bothered and harassed by this legislation let us vote no today once and for all
+  Predicted: 1 | True: 0
+
+ Sentence: and their statement on here is that the administration strongly supports property rights and is continuing to implement regulatory reforms that will provide relief to property owners
+  Predicted: 0 | True: 1
+

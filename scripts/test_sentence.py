@@ -46,14 +46,14 @@ if __name__ == "__main__":
     prediction = classifier(test_sentence)
 
     if prediction[0]["label"] == "LABEL_1":
-        print("⚠️ Dogwhistle detected.")
+        print(" Dogwhistle detected.")
 
         # If yes, classify which in-group it is targetting
         classifier2 = pipeline('text-classification', model=classifier_2, tokenizer=tokenizer)
         pred2 = classifier2(test_sentence)
 
         label = int(pred2[0]["label"].replace("LABEL_", ""))  
-        print("🎯 Target group:", inv_dict_ingroup[label])
+        print(" Target group:", inv_dict_ingroup[label])
 
     else:
-        print("✅ No dogwhistle detected.")
+        print(" No dogwhistle detected.")

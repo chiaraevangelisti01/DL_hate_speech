@@ -1,0 +1,1565 @@
+***** Evaluating Classifier 2 (which dog-whistle) *****
+ Checking for misclassified sentences...
+ Sentence: but liberals cant see in color thats racist apparently to lefties being colorblind is just as bad as seeing color
+   Predicted: anti-liberal | True: racist
+
+ Sentence: this comment section predominantly black does not mean gangs drugs and deadbeat dads though it can be correlated to it and nonblack does not mean safe or safer
+   Predicted: anti-liberal | True: racist
+
+ Sentence: with deregulation of wall street more tax cuts for the rich and a trade policy that wall street has pushed through the house and senate
+   Predicted: anti-liberal | True: racist
+
+ Sentence: oy vey what about being an antianglosaxon or antslav those are okay for some reason though wonder why
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: it is also unlikely that the country will be able to pay for prescription drug coverage under medicare because the republicans are continuing their attempts to squander any available moneys on tax cuts that are disproportionately benefitting the wealthy
+   Predicted: anti-liberal | True: racist
+
+ Sentence: at the same time it supports a plan that would give the top percent of americas taxpayers over a tax cut
+   Predicted: anti-liberal | True: racist
+
+ Sentence: its fucked up you dont even really own anything nowadays bought a car good pay a minimum of dollars a month on obligatory insurance and then a couple of extra hundreds of dollars on tax own a property oy vey dont forget to pay your yearly usd property tax
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: we colonize mexico deport the population and populate it with traditional good hardworking american families
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the purpose of which has not yet been determined in law taxing hardworking american homeowners is not the way to fund new affordable housing i share the chairmans commitment to increasing the stock of affordable housing for lowincome americans
+   Predicted: anti-liberal | True: racist
+
+ Sentence: it is fundamentally wrong to hold for ransom unemployment benefits to the most vulnerable individuals among us for tax cuts to billionaires
+   Predicted: anti-liberal | True: racist
+
+ Sentence: hes actually brave and im glad he immediately smacked eggcuck he humiliates cuckservatives too everyone should be as willing to say the truth as him
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: what gives you the right to assult them physical removal is about where id be okay with but you cant go up to random people and smash their faces in a lot of real neo nazis can be quite dengerous so if you end up with a broken jaw and an assault charge you can blame yourself
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: gtmub da mo bidda te dat tum muhfugen bix nood cof bin dub ho muhfugga yeah thats definitely how the founders talked to each other
+   Predicted: anti-GMO | True: racist
+
+ Sentence: and then the ignorant power hungry mind controlling dems roll into politics saying the hardworking american people are cruel and evil by not letting everyone come in legally or illegally and that if you are a good person you should let them in
+   Predicted: anti-liberal | True: racist
+
+ Sentence: wait a minute is that the correct demographic that keeps on calling me an evil shekel american or is it the white trash community that keeps calling me that
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: the republican budget proposes yet another trillion tax cut for the top percent in our country while focusing percent of their cuts on shredding our nations critical safety net for our children
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i would have grabbed every dollar for my shekel collection of course it all would have been donated to holocaust museums theyre super necessary
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: they have a clear identifier that they can put on for preferential treatment the switch is something to behold one second its how do you do fellow whites the next is oy vey anti semite please direct me to the nearest business opportunity
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: oy vey goy i cant imagine who this group that is trying to destroy society might be its not as if a certain ethnoreligious group controls the media and is pushing this agenda
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: mr president this is all these hardworking americans ask forthe chance to compete on an equal playing field without barriers
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i dont think well ever get mainstream due to how well the shekel masters control the media its a lost cause but for the few enlightened
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: the president does this at the same time that he is calling for tax cuts for the most wealthy people in america
+   Predicted: anti-liberal | True: racist
+
+ Sentence: but our bridges fall down in the middle of america we have tax cuts for the top percent but it is getting harder and harder for the middle class to get by
+   Predicted: anti-liberal | True: racist
+
+ Sentence: yes do we need to balance the budget on the backs of hardworking americans who play by the rules absolutely not
+   Predicted: xenophobic | True: racist
+
+ Sentence: the challenge for us is to allow hardworking americans to hang on to more of the money they earn and send less of it to the federal government
+   Predicted: anti-liberal | True: racist
+
+ Sentence: which is that his problem with the budget resolution that is going to come to the floor of the senate is that the priorities in that budget resolution do not match the needs of the country the budget resolution from the house of representatives calls for a very large tax cut the benefits of the tax cut will largely go to the wealthiest in america
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the purpose of passing those fraudulently shrunken appropriation bills was to open up enough room in that phony budget so that the majority leadership could pretend that there was enough room in that budget for the huge tax cuts which they then proceeded to pass the majority of benefits which went to those in our society who make a year or more
+   Predicted: anti-liberal | True: racist
+
+ Sentence: oy vey doncha give me all this license schlep yah shmuck ill have you know my grandfather was told he needed a license by the germans and if he didnt get out then and there i would never have been born im a free person now get lost theres a goyum over there tweeting you should be stopping
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: because they exploit and endless supply of illegal immigrant labor and donate profits to proopen border politicians to keep the gravy train running
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: you are correct thats what it would take im not optimistic expect republicans everywhere to frame it as black and brown folks taking wealth from hardworking american families tm
+   Predicted: anti-liberal | True: racist
+
+ Sentence: a massive tax cut for our wealthiest campaign contributors paid for by eliminating the one tax break for the poor working stiff that even george bush thought was a fantastic idea
+   Predicted: anti-liberal | True: racist
+
+ Sentence: they saw their opportunity for expansion in financial trade and obviously sponsored all these foreign policy associationsthe trilateral commission and everything else
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: true so true why are we focusing on the mistakes of this young innocent young man when we should be looking at the malicious evil and downright sinister intent of blm there is no reason to for those villains to attack hardworking american storefronts
+   Predicted: anti-liberal | True: racist
+
+ Sentence: mir chairman this bill is just another trojan horse to restrict more of our private property rights vote no on this bill and on any amendments that further weaken private property rights
+   Predicted: anti-liberal | True: racist
+
+ Sentence: leftists who say they are against religion in politics probably the main reasonexcuse they use to demonize christians and conservatives wholeheartedly support the only mainstream ideology that is both political and religious in nature and is also totalitarian the concept of separation of church and state which ironically has roots in judeochristian values does not exist in traditional islam idiots
+   Predicted: racist | True: Islamophobic
+
+ Sentence: you americans need to fucking riot if youre not the ones to lead the revolution shits just not gonna happen developing countries get fucked by coups and military intervention and small european countries collapse under international banks fuckery
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: you want to win in november we have to deny hillary the black vote they have to see her racist superpredators brought to heel on cp time comments and her connections with goldwater and byrd thats why the donald has been burdened with this racist label that so many idiots just repeat without thinking about it fuck hillary clinton and fuck correct the record
+   Predicted: anti-liberal | True: racist
+
+ Sentence: and has now invented a fake wife first with a realdoll now with possibly an illegal immigrant being held as a de facto slave check cow for all the sordid details
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: she constitutes all the desired attributes that establishment stringpullers want out of a candidate an idpol wet dream with a willingness to take money from anyone
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: another example of immigrants coming here and stealing jobs from hardworking american spooks such a shame
+   Predicted: anti-liberal | True: racist
+
+ Sentence: there doesnt seem to be any reason outside of your personal preferences and mine too as i would like to always pay the lowest price but that doesnt trump basic property rights which also allow you to discriminate towards anyone using your home or your car
+   Predicted: anti-liberal | True: racist
+
+ Sentence: this is one of those positions that imo we can use against her because her party is shit not because she was necessarily wrong the knock out game and ambushes of police show us in plain examples that superpredators are indeed out there many black and very fucking dangerous regular black people are scared as fuck of them too
+   Predicted: anti-liberal | True: racist
+
+ Sentence: yeah its all bug tier but at least she did something nice bugman doesnt deserve her for posting this on reddit unless she did it all to have him post it on reddit then shes just a thot
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: he was a hardworking american from a hard working family of americans killed by a non american who is only in this country because liberals have weakened us so much that we are no longer allowed to defend our own sovereignty
+   Predicted: anti-liberal | True: racist
+
+ Sentence: when i say here i mean the gorillion shekel extreme subreddit and the entire documentary was very well researched and fascinatingly eye opening to listen to ill have to check out more of his lectures later on
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: we are the only nation in the world that allows drug companies to charge whatever they want to charge our governments response is more tax cuts for the richest people in the country president bushs tax program gives a person making million a tax cut
+   Predicted: anti-liberal | True: racist
+
+ Sentence: first we take their stah wahs gaem then we take their coffee flavored milkshakes how will the eternal bugman ever recover
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: yup the media convinces people it really is about race and then they go out and undermine their own message and the prison industrial complex to house all the superpredators mean they have incentive criminalize stupid shit to trap people in the system which then perpetuates the whole fucking mess
+   Predicted: anti-liberal | True: racist
+
+ Sentence: of course and i cringe every time i see a bake sale for some public service the library the teachers even some veterans group its all pathetic that we depend on in this trickledown economy the trickling down of a little bit of spare money instead of being properly funded for what they are at the same time we give a trillion dollar tax cut to the wealthiest
+   Predicted: anti-liberal | True: racist
+
+ Sentence: senator byrd and i are in full agreement neither one of us wants to see these savings used to provide tax cuts for rich people the difference is that senator byrd is in the other body
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i think what this amounts to is the lefts hate for people who hold true to judeochristian values anyone having those beliefs they consider to be racist or any similarly hate phrase they can choose this one just shows how stupid they can be
+   Predicted: racist | True: Islamophobic
+
+ Sentence: millionth jewish corps i was given the iron shekel for my redpilling of half a jewish youth group
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: could you fucking imagine this sounds like the type of person to not save a couple from a burning building because they have a trump sign on their front lawn fire his ass alllivesmatter
+   Predicted: anti-GMO | True: racist
+
+ Sentence: they are all in everyone of them and if they dont get their way they are prepared to burn it all down they want a constitution without god and judeochristian values period they are godless and unhinged and therefore more dangerous than we may be thinking
+   Predicted: racist | True: Islamophobic
+
+ Sentence: conservatism isnt gaining traction from ive seen with all the degenerate festivals people hold there plus i doubt the shekel masters would ever let that happen
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: i would note that its consideration today is particularly timely as millions of hardworking americans file their tax returns
+   Predicted: anti-liberal | True: racist
+
+ Sentence: indeed why wouldnt an honest average joe wouldnt respect success usually its misinformation at best but mostly the fear they can never be an eighth of a hardworking american like trump too many men are being taught to hate themselves instead of working on something of a greater good
+   Predicted: anti-liberal | True: racist
+
+ Sentence: oy vey dont be a racist goyby the way this is akmed he wants to culturally appropriate your wife
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: you make it hard to feel like you people are alive at all or have souls or are anything but a bugman soulless demon
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: the agenda that democrats laid out over the last year is an agenda that all of us here in washington should be able to support if you want to help millions of hardworking americans who have not received a pay raise in years you will join us in increasing the minimum raise in january
+   Predicted: anti-liberal | True: racist
+
+ Sentence: european politics are way more corrupt than us the republicans in france are just a bunch of cuckservatives with no national interest in mind i am afraid europe is done for
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: he is hated by the leftists and cuckservatives alike here in kansas hes a perfect pick hes a perfect ag to get immigration dealt with directly while he appoints a special prosecutor for all the clinton mess
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: finally mr president on the issue of taxes with the passage of the republican senate bill last friday the republican party has shrugged off its history as the party of tax cuts and become the party of tax hikes on the middle class
+   Predicted: anti-liberal | True: racist
+
+ Sentence: she called african american youth superpredators in justifying mass incarceration on the basis that they had no empathy or conscience the dnc leaked emails showed them referring to hispanic outreach as taco bowl engagement
+   Predicted: anti-liberal | True: racist
+
+ Sentence: lol is that cartoon supposed to depict trump in a negative light because whats depicted is exactly what i want to see including physical removal of communist news tards
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: exactly identity politics is a cancer eating at america it doesnt matter if we have a black president or a white president or male or female so long as theyre right for the job we have to be colorblind in our choices and not get caught up in the current year
+   Predicted: anti-liberal | True: racist
+
+ Sentence: more than percent of them have annual earnings of less than a year these are hardworking americans who are on the bottom steps of the economic ladder they are the hardworking americans who have a sense of pride
+   Predicted: anti-liberal | True: racist
+
+ Sentence: we traveled to the border to gain more firsthand knowledge of the ongoing mass migration of illegal immigrants into our nation to hear from border patrol agents about how they are handling this crisis and to perhaps more powerfully hear from young women and girls who are victims of president bidens careless border and immigration policies
+   Predicted: liberal | True: anti-Latino
+
+ Sentence: we must sober up and get some leadership which understands that this trilateral commission and bigbank crowd in new york is taking us for a ride
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: because they are hardworking americans aspiring to live the dreams that all of us have had in this body
+   Predicted: anti-liberal | True: racist
+
+ Sentence: it especially pisses me off when cuckservatives try to paint the democrats racist due to the dixiecrats
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: we are working to see how we can give a bigger tax cut for the wealthy and how we can take it away from the poor
+   Predicted: anti-liberal | True: racist
+
+ Sentence: yet deeper while languishing programs that are important to average folks while the wealthy get more this budget would reserve substantial funding for tax cuts for the richest among us it would reserve tax cuts so that we can extend the tax where people who own stock that pays dividends would pay a much lower rate of tax than an american who works for
+   Predicted: anti-liberal | True: racist
+
+ Sentence: because the majority party leadership decided that it was more important to provide billion in tax cuts to people who make million a year
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the irony they claim theyre disproportionately targeted ie a white dude busted with blow has a smaller minimum sentence than a black dude busted with crack rocks which is a result of the clinton crime bill lock those superpredators up
+   Predicted: anti-liberal | True: racist
+
+ Sentence: can we find others using shekel i know its out there a nice obama shekel video will end this promptly
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: this administration and congress had no qualms about passing enormous tax cuts amounting to a year for millionaires and above
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i am just chiming in is it true the never trump cuckservatives are throwing a fit how bad is it and what are the consequences
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: put the money in their pocket and pass regulations that will just drop all of the potential welfare recipients from their rolls and the money that they save here at the federal level will be used for a tax cut not a tax cut for people who are in need
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i honestly believe we can do tax cuts this year if we just get our nerve back to control wasteful government spending
+   Predicted: anti-liberal | True: racist
+
+ Sentence: if you think youve seen a white or white bugman wait until you see a chonger they are the prototypical bugman
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: internationalism by definition subverts liberty equality fraternity rights progress and reform to a panel of bureaucrats and lobbyists owned by international banks and corporations
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: so like i dunno imagine if the nazis had succeeded in the holocaust and taken over europe and then a hundred years later you had braindead blonde twenty somethings drinking schnapps and strapping big fake noses to their heads and shouting oy vey would that be racist
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: personally i find the evidence for anthropogenic climate change implausible and i notice that the institutions funding and organising the climate change movement are the same international banks and bankercontrolled thinktanks that have looted every other sector of our economy
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: it has to do with a certain ethnosocioeconomic class of people that have their own ethno state in the middle east that tend to be found on the executive board of international banks and also control the international central banking cartel system
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: we in the house of representatives are poised to continue our commitment to tax fairness for all hardworking americans by voting to repeal the death tax
+   Predicted: anti-liberal | True: racist
+
+ Sentence: there are those who support hardworking american families and small businesses against those who wish to protect the status quo and big wall street banks
+   Predicted: anti-liberal | True: racist
+
+ Sentence: but it is not part of the democratic commitment to protect average hardworking americans that is not to say that medicare doesnt need to be fixed
+   Predicted: anti-liberal | True: racist
+
+ Sentence: they should remember all of the broken promises from the health care law and all of the hardworking americans who have been hurt by the obama health care law
+   Predicted: anti-liberal | True: racist
+
+ Sentence: and you shall not pass any of these bolshevik laws affecting the property rights of the people of this country
+   Predicted: anti-liberal | True: racist
+
+ Sentence: these hardworking americans deserve this kind of assurance that they are going to be able to provide for their families
+   Predicted: anti-liberal | True: racist
+
+ Sentence: jorge banderas illegal immigrant and rapist if you see him irl call ice and do not approach he is often armed
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: and the reason why i say that is many school districts have even cut out school buses so that means that these hardworking americans have to rush and get their children to school and they go off to jobs that are hours long
+   Predicted: anti-liberal | True: racist
+
+ Sentence: they decided that our tax dollars were better spent on corporate welfare and massive tax cuts for the wealthiest americans
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the leadership of this house will ask us to support an estate tax cut that benefits fewer than two percent of americans
+   Predicted: anti-liberal | True: racist
+
+ Sentence: it has led to these huge deficits as supplyside economics with its tax cuts for the wealthy and the increase now in milimay
+   Predicted: anti-liberal | True: racist
+
+ Sentence: something something socioeconomic factors something something generational poverty fug whitey bix nood black iq race crime
+   Predicted: anti-liberal | True: racist
+
+ Sentence: cof bin razclot dob raycisdoo didda namasaiyin bidda wee outhyuh be po bix noodindu da dat tum dee cracka seen
+   Predicted: anti-liberal | True: racist
+
+ Sentence: gt house speaker paul ryan again rebuked donald trump for his attacks on a federal judge because of his mexican heritage saying the presumptive gop nominees remarks are the textbook definition of racist comments i didnt realize that federal judge was a rapist drugdealing illegal immigrant that changes everything
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: muslims dont give rights to minorities in muslim countries but they want minority rights in western judeochristian countries
+   Predicted: racist | True: Islamophobic
+
+ Sentence: she discovered judeochristian ethics and was motivated to see the truth in it because she fled to a place where it was available to her and where she was protected from the other members of her own religion
+   Predicted: racist | True: Islamophobic
+
+ Sentence: the same poll found that percent of americans believe illegal immigrants have done more to hurt the country than to help it
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: trump surrounded himself with too many cuckservatives and globalist im not surprised i hope he changes his strategy soon this isnt going anywhere productive
+   Predicted: homophobic | True: white supremacist
+
+ Sentence: this is the result of laws passed by democrats to allow victims of dv and rape to stay in the country illegal is illegal if an illegal immigrant is raped the rapist should be punished and the illegal immigrant should be deported
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: it must be the purpose of the congress at all times to make sure that this fund into which so many hardworking americans have paid a substantial portion of their earnings
+   Predicted: anti-liberal | True: racist
+
+ Sentence: but there is more to this than freedom of expression this is a property rights issue that is why i am so disappointed with some of my colleagues that have pushed this as an amendment
+   Predicted: anti-liberal | True: racist
+
+ Sentence: oy vey sure there are laws goy but havent you read some the best jewish academics they proved that instititutional racism and white privilege exist in theory without any evidence so really were doing you a favor do you remember the holocaust you obviously need more education you should watch more television
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: who gets the new money the richest international banks in the world they get more money to buy derivatives and realestate which they will rent to us the people who actually work every day for that currency they are debasing and stealing from us
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: we have managed to pass the most significant tax program in the nations history a bill that not only represented the largest tax cut in memory but a tax cut that would give us what this country was created to give us
+   Predicted: anti-liberal | True: racist
+
+ Sentence: people who are rich enough that they can get a tax cut of mil shouldnt exist in a world where medical bills for even the most basic things can bankrupt an average person housing is too expensive for most people to afford and your parents have to start setting aside money for their childrens college attendance before theyre even born
+   Predicted: anti-liberal | True: racist
+
+ Sentence: they need the brown babies because they are stupid enough to easily control with drugs and gibs white people can be a widdle scary when they get upset at degenerate behavior niggas be eating watermelon and people smoking crack and hol up muh nigga bix nood
+   Predicted: anti-liberal | True: racist
+
+ Sentence: what do these numbers mean in a practical way it means that these expenses are paid for out of the pockets of hardworking americans to fund a program that could be more efficient
+   Predicted: anti-liberal | True: racist
+
+ Sentence: you cant reappropriate a term that doesnt apply to you especially when it was white people who used it originally to oppress black people smh these young bucks skipped history and they online keyboard warriors now
+   Predicted: antisemitic | True: racist
+
+ Sentence: of course diminish the flow of illegal immigrants that would upset the democrats because they would say that this would impede their ability to gain potential voters
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: she left sf good sign she didnt downplay that trump is the cause of her bonus good sign shes taking you to a place where they serve animals cooked over fire good sign now maga young buck
+   Predicted: anti-GMO | True: racist
+
+ Sentence: were standing on the floor of the senate saying we want to get rid of the budget surplus we want very big tax cuts for a very long time most of which will go to the very wealthy
+   Predicted: anti-liberal | True: racist
+
+ Sentence: hardworking american tax dollars that could be used to enrich the lives of the uninsured children of minnesota
+   Predicted: anti-liberal | True: racist
+
+ Sentence: bugman bragging about his expensive guitar gear while actually living in his moms basement thought it was funny
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: good black goyim go and die fighting for israel gt amp large nosed shekel merchant rubs hands greedily together
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: rich capitalists who profit from an unlimited supply of cheap labor support illegal immigration oy vey
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: the minority was denied the opportunity to offer different sets of priorities priorities that did not offer huge tax cuts for those who have the most in society paid for with cuts in education
+   Predicted: anti-liberal | True: racist
+
+ Sentence: plus team bush and clinton have joined up this election to ensure america destroys any country who doesnt bend the knee to the global cabal of transnational corporations and international banks
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: it is sometimes expressed through criticism of the trilateral commission or criticism of some of david rockefellers commitments or criticism of the council on foreign relations
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: when the democrats controlled congress during to they voted to increase taxes on hardworking americans by billion the new revenue was not used to put toward the debt or used to eliminate the deficit
+   Predicted: anti-liberal | True: racist
+
+ Sentence: for a friendly judge in an effort to thwart the will of the people californias prop which would have denied taxpayerfunded social services for illegal immigrants is a perfect case in point
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: this bill is nothing more than a sham and a public relations gesture to mask the fact that republicans are proposing billion in medicare cuts to pay for tax cuts to the welloff
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the main principle enshrined in this bill is the old republican principle of trickledown economics the failed idea that we need to give more tax cuts to the folks at the very very top
+   Predicted: anti-liberal | True: racist
+
+ Sentence: dont stop at soros his stringpullers picked him to do this name them we need to out them now all over the world and trump needs to have seal team six collect some heads moussadstyle otherwise its just another setback for them years down the line their descendants will have learned from the mistakes made now
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: and trying to gain power through that and through bringing in illegal immigrants into our voting system without background checks
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: as a seattle centipede who can now vote i will do my duty to keep this trash out of office he wasted too much of our money on his precious big bertha drilling machine money that could better have been spent hiring hardworking american men and women to do a better job than a japanese machine better yet offer the jobs to the gigantic homelessness population that arose after the legalization of weed and kill two birds with one stone
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i know rich people have committed suicide you might try seeing my post history and how much stock i put in anything that exists at all none im not saying that you have to have things to be happy im saying that happiness is impossible because its really only distraction ignore most of my points im crazy and the rest of this sub doesnt respond to me in the slightest go on and continue about your business pay no attention to the shekel behind the curtain
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: well theyre not wrong it was the international banksters rothschilds and the like that almost entirely funded the early feminist movement and are responsible for getting it off the ground double the tax base cut wages due to x the labor pool not a bad racket if youre a psychopathic trillionaire
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: cuck has the connotation of having lost something you have to be cucked out of something that was previously yours or what you felt was important cuckservatives are conservatives being doormats for leftists and conceding ground
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: antiporn antiwoman this is propably the most disgusting statement ive ever heard oy vey dont go doing something good for yourself better stay and jerk off to our movies for whole day you dont like our porn you are literally nazi
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: the administration and the majority in congress have been pursuing an irresponsible fiscal policy of giving tax cuts mainly to the wealthiest americans among us
+   Predicted: anti-liberal | True: racist
+
+ Sentence: a more productive thing you could do is bash the stringpullers actually behind mass immigration theyve been setting this up for years
+   Predicted: liberal | True: antisemitic
+
+ Sentence: i offer my congratulations to mr dowdy and a warning to my colleaguescutting social security and passing a rich mans tax cut will not sit well with the voters
+   Predicted: anti-liberal | True: racist
+
+ Sentence: we dont want the cuckservatives either that lie down for the dems all the time and join hands with them to ruin the country
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: president bidens failed border policies have customs and border protection encountering percent more fentanyl and apprehending the most illegal immigrants they have seen in more than years
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: the fact is small business produces percent of the private sector gross national product in america they also ought to get percent of the tax cut tenfivethree directs percent of the tax cut in the business sector to business firms of million or more in assets
+   Predicted: anti-liberal | True: racist
+
+ Sentence: im not a conspiracy theorist but it seems like a huge push lately from runpopularopinions and other subs to create the idea that were in some sort of postracial colorblind harmony period in order to silence the issues that people of color are having
+   Predicted: anti-liberal | True: racist
+
+ Sentence: that is completely different than washington democrats sabotaging our border while publicly advertising a cataloga catalogof socialist benefits they say they will provide for illegal immigrants who manage to make it in
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: the average bugman i hate sportsball get it cause all sports involve balls xd wow kaepernick is so brave i wish all of my favorite teams played as woke as he is
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: so that the american people will have the right to understand and know that we are changing medicare as we know it and we are doing it not to save medicare or to reduce the budget but to provide tax cuts for the wealthiest people in our society
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the bill is no better instead of punishing illegal immigrants and employers who ignore the law this bill is a getoutofjailfree pass
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: really as long as the social mood of the country is so good r selected in rk theory terms covert physical removal is pretty much the only solution until things inevitably switch to k and the problem takes care of itself
+   Predicted: transphobic | True: white supremacist
+
+ Sentence: in the dark of night where the conference committee sneaks in another indefensible tax cut to wealthy people that was not the bill that passed out of the senate
+   Predicted: anti-liberal | True: racist
+
+ Sentence: what is the answer before us for growth and jobs in our economy an enormous tax cut in large part for the wealthy in our country
+   Predicted: anti-liberal | True: racist
+
+ Sentence: because most environmental legislation we take up here no one knows much what is going on anyway i offer this amendment today in order to protect the most basic of our private property rights the right to keep government bureaucrats or their agents from snooping on your land and then taking actions that could significantly devalue and regulate that land without ever letting the landowner know they are there or getting that
+   Predicted: anti-liberal | True: racist
+
+ Sentence: what is important about that is that they were cutting medicare billion to pay for a tax cut of about that amount
+   Predicted: anti-liberal | True: racist
+
+ Sentence: we will just increase taxes on the backs of the american people the hardworking american people and i believe the government takes enough out of their paychecks
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i fucking hate shapiro the most subversive antiwhite out there how does he have an audience these covcatholic kids probably love him hopefully this and his love of the browning of america will wake them up to shekel shapiro he wants you dead your children raped and all your money sent to idf and he thinks its funny
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: get in the basket with the superpredators and the russianamericans and the needy latinos and the rest of the irredeemable deplorables its not so bad really
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the guy is a warmonger who thinks venezuela north korea and iran are our mortal enemies instead of just countries that dont submit to the will of the international banksters
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: that is the average tax cut that millionaires will see in their return the second number is
+   Predicted: anti-liberal | True: racist
+
+ Sentence: it would take physical removal to prevent commies from spreading more propaganda it doesnt matter how red the pill is if theres no one to spread it
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: more like levels of blacks created everythang we wuz the israelites n shieeeet nigga muffugha bix noods
+   Predicted: anti-liberal | True: racist
+
+ Sentence: oy vey schmuley calm down or youll schvitz in ya shmaltzahs oh and your thing about nepotism not playing a part in nobelsoops im sure you have another incredibly well thought out reason its all just a cohencidence though
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: colorblind is code for minorities need to shut the fuck up and not acknowledge systemic oppression and racism
+   Predicted: anti-liberal | True: racist
+
+ Sentence: you mean like those adverts with all of those white couples with white children trying to get us to stay within our own race always beware of the electric jew because where theres degeneracy like being healthy or having a solid family there is a shekel to be gained
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: we must repeal this unfair provision this is money that hardworking american citizens have earned and are indeed entitled to i truly wish
+   Predicted: anti-liberal | True: racist
+
+ Sentence: he may not be as swampy as we think may be a patriot nobody really knows one thing is for sure the dems are going to look like clowns after fussing about him because he was confirmed unanimously and theyve spent the past week worshipping
+   Predicted: anti-GMO | True: transphobic
+
+ Sentence: the republicans are so mean to kids in this welfare reform package just for the sole purpose of giving the welltodo rich of this nation a huge tax cut
+   Predicted: anti-liberal | True: racist
+
+ Sentence: but lets just be honest here for a min and think about what it would look like if these tweets came from a catholic priest and not some edgy bugman icon
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: after that find a stack of paper shekels and conceal bacon inside it is better to use more than one shekel stack but only one dosage is needed to be fatal you must drop the contaminated shekel stacks into the water and hope that the jew will consume one
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: at am on a friday in may the house passed the leave no millionaire behind tax cut bill by a handful of votes at am on a friday in june
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i just think we should take a colorblind approach to this whole reconstruction thing wouldnt want to move too fast
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the federal reserve is not a government controlled entity its a conglomerate of private international banks that hold the power of life and death over our country
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: and what we are spending the dollars for is a tax cut for those making over and taking away money in this rescissions package from assisted housing that is needed all over the nation for those who would need to have section rental assistance
+   Predicted: anti-liberal | True: racist
+
+ Sentence: nimble america is an embarrassment to donald supporters not one single shekel was given to any shit posters despite the massive amount of meems we made get outta here ya goof
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: lmao she really is going for the bugman vote the only people i see thinking that the n is the best console are man children who never grew up
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: all the cuckservatives who questioned whether trump would appoint a bunch of liberals need to go eat some mcmuffins and apologize
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: now that the world didnt come to an end their hr departments are freed up to search the ends of the earth for that elusive wheelchair bound transgendered native american with a jd for their next round of completely colorblind hiring
+   Predicted: anti-liberal | True: racist
+
+ Sentence: second the only reason we are having this conversation is because the other side wants to spend trillion on tax cuts for corporations and the wealthiest americans
+   Predicted: anti-liberal | True: racist
+
+ Sentence: as long as her and her husband can milk one more shekel from american taxpayers to enrich themselves she will persist nobody ever wonders about a bill she authored and championed while energy committee chairwoman that closed american rare earth metal mines while her husband held the sole trade license for importing chinese rare earth metals check out the names on the list surprising also puts that chinese spy in her employ for decades in a whole new light
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: spoton theyd drain the goys of every last shekel if they could get them to get into debt deprive them of intimacy with the opposite sex and keep them divided as long as possible
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: oy vey brother be careful with that praise or soon enough the liberals and their stupid nazi accusations will accuse us of being part of the judenrat
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: listen closely colorblind doesnt mean you dont reconize troubles of the past or problems in the future it means you as an indivual see the person before you as a person foremost that is what they are and you will likely become very unhappy if anyone tries to say anyone else is not a person based on something so inherentially valueless as skin tone
+   Predicted: anti-liberal | True: racist
+
+ Sentence: deifying people who are repeatedly wrong or outright clearly lying and crucifying anyone who cares question anything is a remarkable heel turn for society being a bugman is no way to live
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: theyre mostly coming to our country to leech off the taxpayers why stay and work hard in your country when you can make visit to the usa and live a better life than the hardworking american lower class all without lifting a finger through government handouts
+   Predicted: anti-liberal | True: racist
+
+ Sentence: and it insists on these massive reductions in order to preserve the administrations unfair tax cut for the rich and its unwise plan for escalating the nuclear arms race
+   Predicted: anti-liberal | True: racist
+
+ Sentence: she doesnt its a ploy to get votes its the same woman who like years ago said blacks were superpredators and needed to be brought to heel shes just shilling this civil rights bs for votes doubt she believes a word of it
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the vermont law is a classic case of the government picking winners and losers and putting the burden of those decisions on the backs of hardworking americans
+   Predicted: anti-liberal | True: racist
+
+ Sentence: wake the fuck up this guy is screwing you and your eating it up this is a tax cut for big business and the scheming bullshit corporate agenda that runs washington you bought up the political establishment fairytale trump has been selling and are still clinging to the idea that this slimy billionaire in office is looking out for you and your family keep telling yourself youre not controlled by propaganda
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i think hes talking about the trail of tears the amazing event where americans finally were able to remove the original landowners and free the land to be lived on by hardworking american families
+   Predicted: anti-liberal | True: racist
+
+ Sentence: he is carrying the sins of his people knowing that he is likely to be crucified by the ignorant sheep and people from other races who would see this man crucified as part of their religious holiday entertainment to maintain shekel flow
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: we cannot allow hardworking americans to work fulltime and not make enough money to pull themselves out of poverty
+   Predicted: anti-liberal | True: racist
+
+ Sentence: all federal agencies are making decisions on the use of land and resources in unquestioning response to an illconceived environmental agenda which ignores the human side of the equation and disregards the concept of private property rights
+   Predicted: anti-liberal | True: racist
+
+ Sentence: it is extremely shortsighted for this agency to be short cut just so that the majority party can provide billion in tax cuts to people who make over a year
+   Predicted: anti-liberal | True: racist
+
+ Sentence: my honest experience with every jew ive ever met snotty selfrighteous quick to correct you and condescending a shekel for me but not for thee
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: they are doing this in order to make room for another billion in tax cutstax cuts overwhelmingly benefiting our wealthiest citizens
+   Predicted: anti-liberal | True: racist
+
+ Sentence: na they want you to be a defenceless cow in a pen thats how the livestock managers want it youre livestock to be liquidated and your demographic dividend will go to all the international banks foreign regimes and foreign peoples only the corrallers have the guns paramilitary centralised government forces ever more in control of foreign capital and international organisations
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: constitutional cuckservatives led by cruz and cuck levin are cancerousalmost as traitorous to the president as full retard libtards
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: the bill will put in place some commonsense rules that will protect honest hardworking americans from unfair and downright abusive practices by credit card issuers i first introduced similar legislation to protect individual consumers from this kind of unfair treatment by credit card companies back in
+   Predicted: anti-liberal | True: racist
+
+ Sentence: have created an opportunity for the president of the united states to appoint men more in accord with the great principles of progress of this day and age and of the newdeal policy of placing human rights above property rights
+   Predicted: anti-liberal | True: racist
+
+ Sentence: honestly we dont want or need curckservatives in our moment cuckservatives were the ones who ruined our country in the first place
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: theyre just a bunch of superpredators preying on the public spreading fear and falsehood dividing america bringthemtoheel bringmediatoheel
+   Predicted: anti-liberal | True: racist
+
+ Sentence: can we justify the cuts for these programs in order to finance tax cuts for the more affluent members of our communities and increased military spending
+   Predicted: anti-liberal | True: racist
+
+ Sentence: bribes scandle kicking hardworking american children to the curb can a democrat be far behind janet napolitano
+   Predicted: anti-liberal | True: racist
+
+ Sentence: every preventable crime like an illegal immigrant murdering or a refugee raping someone should be reported because it never should have happened to citizens who have a reasonable expectation of protection by their government against foreign threats
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: we are here to the debate on the pensions bill every day hardworking americans go to their jobs they are confident we here in washington are looking out for them and doing everything we can to assure that they will
+   Predicted: anti-liberal | True: racist
+
+ Sentence: we would be increasing funding for the child support enforcement program the bill before us cuts this program in order to make way for more tax cuts for the wealthiest it is simply unconscionable
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i was gonna say thank god i didnt vote for the white woman that called black people superpredators and panders to the black community by carrying hot sauce in her purse
+   Predicted: anti-liberal | True: racist
+
+ Sentence: an effeminate and usually somewhat metropolitan millennial man whose entire personality is defined by his consumption of media and hip cosmopolitanwhatever a bugman takes whatever political opinion makes him look the best to women almost always progressivism because he is unable to compete any other way he has willingly severed himself from his cultural roots and spits on every one of his ancestors who broke their backs and worse to ensure that he got to where he is
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: you can see the shiftiness just by that tiny photo and you can practically hear his jewy hands rubbing together as he anticipates his next shekel scheme
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: when he turned those tables in the temple and made that whip and took after those people those were the banksters of the day international banksters lol i let that sink in one day ultimate anti globalist
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: what else do the republicans believe is less important than additional billions of dollars in tax cuts for the wealthy
+   Predicted: anti-liberal | True: racist
+
+ Sentence: fortynine billion dollars of insensitive spending cuts offset by billion in lost revenues and tax cuts for the rich and powerful
+   Predicted: anti-liberal | True: racist
+
+ Sentence: yet president bush came into office with his reckless tax cuts for the superwealthy not all of them were for superwealthy
+   Predicted: anti-liberal | True: racist
+
+ Sentence: to our hardworking americans i say today that this vote does not indicate that the members of congress will be at the beck and call of particular interest groups for increased funding
+   Predicted: anti-liberal | True: racist
+
+ Sentence: we saw that the one part of the republic budget that was before the senate was not only to provide billion in tax cuts for the wealthy individuals but to cut back on that help
+   Predicted: anti-liberal | True: racist
+
+ Sentence: members of this body who support the restoration of personal property rights contained in this amendment
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the presidents recent executive order on amnesty places the safety of every citizen in jeopardy and eliminates job opportunities for hardworking americans
+   Predicted: anti-liberal | True: racist
+
+ Sentence: we are not going to leave until we pass this tax cut for millionaires and billionaires and special interests
+   Predicted: anti-liberal | True: racist
+
+ Sentence: same old policies every problem should have a tax cut for the wealthy that is what got us into this mess
+   Predicted: anti-liberal | True: racist
+
+ Sentence: trump didnt win by using the same failed playback cuckservatives have used for decades he won by telling it like it fucking is
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: unfortunately they the international banksters print money out of thin air and additionally tax the people for their fair share of their pound of flesh
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: we do this by cutting fraud and waste and reining in the exploding costs our tax cut reduces the tax burden on people who actually pay taxes it closes loopholes
+   Predicted: anti-liberal | True: racist
+
+ Sentence: gt the stupid endless wars for us are ending no more fighting wars for globalism no more wars to fight the enemies of israel we are in the future with technology theres no more reasons for war for the masses the wars are for those seeking power control and keeping the international banks afloat stop the madness thank you president trump
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: this type of behavior is just surrender its no different than a woman defending her abusive husband from the police swearing that hes really a good guy he just had a bad day at work your daughter gets murdered by an illegal immigrant and your first thought is to defend the people that murdered your daughter
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: madam speaker hardworking american families are struggling and in dire need of assistance i can think of no better way to help them than by providing health insurance coverage for their precious young
+   Predicted: anti-liberal | True: racist
+
+ Sentence: in real life most of this incel lingo doesnt even come to mind but i saw a turbo bugman the other day and couldnt help but laugh a bit first laugh in like months i felt hope for a moment
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: you might want to check out who sits on the boards of most international banks then check out holdings those banks own and see who sits on those boards as well maybe check out prominent members of the media ill help you on that one then just for fun look at modern presidents cabinet members and appointees and check out the religiousracial compositions of those
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: i like how the globalists claim each case of right wing populism in the judeochristian world is an isolated case us mexico brazil germany uk and other countries beg to differ
+   Predicted: racist | True: Islamophobic
+
+ Sentence: he hasnt said anything disparaging against them its a big media lie repeated times to make it true hillary on the other hand had called blacks superpredators and spoke out against gay marriage in the notsodistant past thank god shes history now the inverse truth presented by the media is the only consistency they know its apalling
+   Predicted: anti-liberal | True: racist
+
+ Sentence: he does have one proposal another tax cut for the wealthiest percent of americans we have tried that one all right
+   Predicted: anti-liberal | True: racist
+
+ Sentence: and we saw that instead of making sure that we paid attention to the right kind of priorities millions were given in tax cuts to the wealthiest and our president was left with a budget deficit to confront
+   Predicted: anti-liberal | True: racist
+
+ Sentence: that the middle class hardworking americans are not getting their tax dollars worth i think that small businesses are the backbone of america and that entrepreneurs should be encouraged
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i stopped caring about being called racist years ago and i have been bitched at quite a bit on this sub for it too many cuckservatives who love to be replaced legally
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: oy vey goyim you should care that there is wealth inequality between whites and blacks but not that a minority that makes up less then of the population is of the billionaires
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: ive never met a real westerner whod chase a shekel anywhere most real americans have no idea what a shekel is
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: the bix nood effect why is america so hellbent in putting black people in neighborhoods they havent earned to live in the people who already live there worked their asses off and paid a premium to live in those houses if i lived in these affluent neighborhoods id sell my house pack up and take my money into another country see how the gubmint likes all the hardworking moneyproducing people just fleeing the country i fear for america and its future
+   Predicted: anti-liberal | True: racist
+
+ Sentence: yet hidden inside this budget is a major tax cut that will make it impossible for us to be able to provide what is important for the country
+   Predicted: anti-liberal | True: racist
+
+ Sentence: well long story short he played the character as the most ridiculous bix nood ooga booga where da white women at racist caricature of a black person he possibly could
+   Predicted: anti-liberal | True: racist
+
+ Sentence: your one religion out of is not the right one we are founded on judeochristian values which is not the same thing some of our great founding fathers owened slaves
+   Predicted: racist | True: Islamophobic
+
+ Sentence: then i tell them that no adult exists who has never referenced race and theyre holding trump to an impossible standard which none of the other candidates meet you dont know what its like to be poor superpredators need to be brought to heel
+   Predicted: anti-liberal | True: racist
+
+ Sentence: unfortunately we will never see one the never trumpers and neocons with cuckservatives backing them up will make sure it never happens
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: but what is the other side of the coin to what the gentleman from florida says the other side of the coin is a permanent subculture in this country of illegal immigrants alienated people who are neiher fish nor fowl
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: these cuts are proposed at the very same time the budget once again proposes large new tax cuts tilted toward higher income households
+   Predicted: anti-liberal | True: racist
+
+ Sentence: there are now new reports that at some segments of the border illegal immigrants are being released into the interior of the united states without receiving a notice to appear in immigration court
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: they will never be satisfied their liberal ideologues and our cuckservatives have been appeasing them so long they have a misplaced sense of invincibility
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: all i can see is male entitlements wearing skirts is no different from male entitlement wearing a business suit so they have the privilege of being at the top of the oppression narrative thus they are the superpredators of victimization they can decide to create a slur against women they can forbid female only spaces they can demand women to be recognized as cis
+   Predicted: anti-liberal | True: racist
+
+ Sentence: paul penzone a democrat excop kinda looks like a mobster imo dont know a lot about him but hes favored by the same establishments that endorse clinton so im guessing hell turn maricopa into even more of an illegal immigrant sanctuary
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: summer jobs as well as student loans do you know what is going to be cut with these tax cuts we are talking about cutting an enormous amount
+   Predicted: anti-liberal | True: racist
+
+ Sentence: came here to post this international banksters we were better off without the federal reserve way better off
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: the second conference report still underfunds key programs because of the republicanled congress and the administrations fiscally irresponsible budget priorities continued insistence on large additional tax cuts for the super rich and
+   Predicted: anti-liberal | True: racist
+
+ Sentence: to americans with generous new tax breaks and extended tax cuts to those who earn more than a year and who clip coupons for a living
+   Predicted: anti-liberal | True: racist
+
+ Sentence: trumpenstein at least wants us to have the nd amendment this bugman wants to turn the us into another china
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: remembers the superpredators quote yeah nah probably did more to harm their rights libs are why we cant have nice things
+   Predicted: anti-liberal | True: racist
+
+ Sentence: in those same two pages to have massive tax cuts for those at the top of the economic ladder a budget is supposed to be a statement of our national priorities
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i watched a white guy call a puerto rican woman a boarder jumping illegal immigrant shes not an illegal nor is she an immigrant same guy was yelling at a group of indian ppl all here legally but again he called them illegals lots of ppl have strong hatred towards immigrants illegal or not
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: if we wanted to conform to the lefts ideas of what makes a good conservative then wed be stuck with lil jebbie donald is winning because he and his supporters are sick of mainstream conformism and arent afraid to speak their minds its cuckservatives like you that helped get obama elected twice
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: at the same time our southern border is being flooded with just masses of illegal immigrants on a nightly basis
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: this sounds like obama economy where theoretically you can fit a lot of jobs in reduced hours but theyre all service level deadbeat jobs tradeskills die in these conditions
+   Predicted: anti-liberal | True: racist
+
+ Sentence: will the senator agree the biggest tax cut this country could get is reducing the trillion debt we have will the senator agree
+   Predicted: anti-liberal | True: racist
+
+ Sentence: if only the criticisms were legitimate instead of thinly veiled nonsense thats easily rebutted but hey you dont have to look too far in this thread to find oy vey comments and at least one poster talking about pernicious jews so keep pretending otherwise cuck
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: and here i thought we were seeing order happen against trump when cuckservatives turned on him over his private banter
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: i just wanted to go back and point out from the very beginning that the reason why i support this motion to instruct is primarily because it recognizes the fact that we should not destroy medicare by providing tax cuts for the wealthy
+   Predicted: anti-liberal | True: racist
+
+ Sentence: why she called all of their husbands superpredators and pushed a piece of legislation through in that has resulted in the incarceration of more minorities for nonviolent crimes than ever before in the history of this nation
+   Predicted: anti-liberal | True: racist
+
+ Sentence: oh nothere are literally robotic people with money willing to shekel out to this broadtake the ceo of youtube for example a cuck tat woould drool over meeting or seeing hillary as they swoon for the demon
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: and they have lowered the benefits for the poor with this kind of a tax cut they increase the benefits going back to the more wealthy
+   Predicted: anti-liberal | True: racist
+
+ Sentence: they are recommending billion be cut out of medicare over the next years in order to pay for a billion tax cut for the rich
+   Predicted: anti-liberal | True: racist
+
+ Sentence: do you mean the book where an illegal immigrant can shoot and murder an innocent young soul where as a legal citizen would have had his life ruined and torn down
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: we have the best uncucked superpredators who want their boss to not be crooked like hillary dont we folks
+   Predicted: anti-liberal | True: racist
+
+ Sentence: so much of the altright is a bunch of socialists who need physical removal along with the few who think that we should make legislation hiring for major companies and the like on the basis of race
+   Predicted: anti-liberal | True: white supremacist
+
+ Sentence: comedic geniuses the lot of em edit shekel goldbergstein posted from jersusalem isreal im sure he did
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: this budget comes sandwiched between billion worth of tax cuts for the most comfortable among us
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the john birch society found a communist under everybodys bed the trilateral commission infamously ruled the world our president
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: maybe the gop in congress and the other nevertrump cuckservatives will start getting aboard the trump train finally
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: they still outnumber the republicans the democrats need a time out while we fix shit the cuckservatives stick out like a sore thumb
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: cause globalism is anti white not pro anything the objective is to rid all whites in europe and north america of political power through replacement immigration this is why the media hates eastern europehomogeneous white countries and russiahomogeneous not sold to international banks even more
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: hes a good person fordefending his junkie son maybe if he had some of that same compassion for the sons and daughters of other people instead of labeling them superpredators and trying to turn police into the sa id give him a bit of credit
+   Predicted: anti-liberal | True: racist
+
+ Sentence: hardworking american small businessman who is scared to death that for reasons that are beyond his control and beyond his comprehension he is going to lose everything he has
+   Predicted: anti-liberal | True: racist
+
+ Sentence: stupid cunt fuck google tax haven having personal data selling right wing censoring shekel grubbing pieces of shit if you ask me
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: cuckservatives are worse than liberals at least liberals are just generally stupid cuckservatives are cowards
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: mr speaker i am in full agreement with the goal of reducing taxes on hardworking american families the republican way of reducing taxes is by reducing spending and reducing government
+   Predicted: anti-liberal | True: racist
+
+ Sentence: ah reasonable and flexible two words rarely used to describe politicians these days explains why the cuckservatives failed to mount any opposition to the left in the last years
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: and for the most part we have had a colorblind society for a long time sans a few outliers in the name of getting those outliers theyre destroying all the progress weve made
+   Predicted: anti-liberal | True: racist
+
+ Sentence: shes actually cleverly hiding her double barrel shekel sniffer with that pose shes been posing like that since the th grade
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: this is sort of a bizarre rule that is limiting debate on three very critical areas but i would like to just focus on one because under the guise of protecting property rights hr is back before us
+   Predicted: anti-liberal | True: racist
+
+ Sentence: hes partially right i do t think the young bucks are the ones behind this theyre just hired along for the votes
+   Predicted: anti-liberal | True: racist
+
+ Sentence: nah the threat of violence is the ultimate authority whether it is subtle or subconscious that bugman attitude is an excuse for weakness
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: hilary clinton republicans spread hate also hilary clinton of the people in this country are deplorables and our inner cities are filled with gang members who are superpredators with no conscience or empathy sure elon musk is being ridiculous here but hilary is being completely hypocritical as usual they should both be disregarded
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the president and the republican leadership have decided that tax cuts for the few are more important than programs for the many
+   Predicted: anti-liberal | True: racist
+
+ Sentence: what we do is we broadly give the ability to violate property rights through the heritage area laws so people can access private property without permission
+   Predicted: anti-liberal | True: racist
+
+ Sentence: oy vey nice work fellow goyim now all the goyims will kill their own children and allow us to replace them with imports
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: it includes things like a massive tax cut for wealthy people in blue states and huge sums of money for state and city governments with no linkage to demonstrated covid needs
+   Predicted: anti-liberal | True: racist
+
+ Sentence: id hate to ever vote democrat but if i had to to fight for my job to feed my family i guess i would even if i hated every second of it dont let cuckservatives split geotus base call your reps please my future and my familys future depend on it
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: dems dont want to fix their intentionally created apocalyptic slums because thats how they get their fat filthy hands on our taxpayer dollars their slums are their whores turning tricks on the corner dems are the pimps taxpayers are the johns and black communities are the abused wives caking on makeup over their black eye always making excuses for their violent drunken deadbeat husbands the whole situation and everyone that contributes to this cycle of absurdity is fucking pathetic
+   Predicted: anti-liberal | True: racist
+
+ Sentence: this socalled tax cut would only benefit those people who take the standard deduction when they file their returns
+   Predicted: anti-liberal | True: racist
+
+ Sentence: money that would have been used to reinforce the very levees that broke and flooded new orleans we had plenty of money to pay for tax cuts for the wealthiest americans but none apparently to save the poorest americans with an ounce of prevention
+   Predicted: anti-liberal | True: racist
+
+ Sentence: white liberals are some of the most racist people ever they claim they are colorblind but they constantly see minorities as helpless and feel the need to defend them and coddle them all the time s a d
+   Predicted: anti-liberal | True: racist
+
+ Sentence: we have been down this road before where we were offered trickledown tax cuts in the s that benefited the very well to do and did not get down to working men and women and those families
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the supreme court upheld the sanctity of that fifth amendment protection as sacred as free speech in the bill of rights i urge follow members to sign up as a defender of private property rights sign up discharge petition
+   Predicted: anti-liberal | True: racist
+
+ Sentence: we can make no law regarding their property rights that we could not make in reference to the property rights of any white citizen of any state of the union
+   Predicted: anti-liberal | True: racist
+
+ Sentence: describing predominantly black male youth as conscienceless superpredators is clearly not describing things as they were and i dont think its forgivable in a political candidate if thats your point then i dont think we are in agreement
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the current proposal would add billions to the deficit in order to finance more reckless tax cuts for the most privileged americans
+   Predicted: anti-liberal | True: racist
+
+ Sentence: right uncle joe is correct and the hilldawg was right when she said we need to bring the superpredators to heel we shouldnt give these liberals too much shit for saying those things indeed we ought to praise them funny how these very reasonable statements they made in the past are now the occasion for cringing repentance
+   Predicted: anti-liberal | True: racist
+
+ Sentence: statistically he probably has several subproblems also dz im surprised youre not cheering him on dont you get a special shekel bonus for promoting miscegeny
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: others will remain useless civnat cuckservatives just like daddy trump and his handlers want them to be
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: who are these foreign investors that are funding our government that for the past years funded tax cuts for folks in this country earning over a year while the rest of us were pretty much left to fend for ourselves
+   Predicted: anti-liberal | True: racist
+
+ Sentence: mohammed plagiarized judeochristian myths for his own political and military ends in arabia islam was created by him talking with the angel gabriel inside a cave or so it was claimed
+   Predicted: racist | True: Islamophobic
+
+ Sentence: i rise today in strong opposition to this rule and to a budget conference agreement that jeopardizes fiscal discipline and critical social programs to make room for an enormous tax cut skewed toward the wealthy and based on surplus projections that may never materialize
+   Predicted: anti-liberal | True: racist
+
+ Sentence: we have heard this is a matter of priorities the priority for this administration is to give tax cuts to billionaires not to adequately pay for civilian employees of the federal government
+   Predicted: anti-liberal | True: racist
+
+ Sentence: if i could turn back time that wont work there is always the chance one could get robbed and killed by an illegal immigrant
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: trans shit is promoted by international banks the biggest imperialistic colonizers and scumbags in human history sonot surprising
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: oy vey never forget the trillion negroes that were turned into lampshades soap and air fresheners
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: its a tool for them to destroy power entities held by white western populations its a counter mechanism against judeochristian western establishments and societies destroy those and the rest will easily fall
+   Predicted: racist | True: Islamophobic
+
+ Sentence: the council of is a good place to start but lets not forget the cfr trilateral commission and such groups
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: they chose to provide a massive tax cut to the wealthy the people who need it least and they chose it at the expense of medicare
+   Predicted: anti-liberal | True: racist
+
+ Sentence: our govt was stolen in when the fed reserve was created and we were sold to the international banksters
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: yes in fact they are more ill than you know think about it dont be delusional thinking they are ignoring simple logic physical removal now for the sake of civilization
+   Predicted: transphobic | True: white supremacist
+
+ Sentence: its sad when this guy who was an endearing figure from my childhood is nothing more than a shekel grabbing opportunist
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: in short to make room for huge tax cuts for the wealthy they have abandoned seniors who are trying to stretch their social security checks and modest pensions to cover both food and medicine
+   Predicted: anti-liberal | True: racist
+
+ Sentence: from what the article states i dont see anything unusual or shocking by what the statement is calling for its just judeochristian biblical morality nothing new
+   Predicted: racist | True: Islamophobic
+
+ Sentence: you might argue that that kind of elective racial affiliation is bad and i agree that it would be great if we could all hold hands in colorblind equality but thats just not reality yet
+   Predicted: anti-liberal | True: racist
+
+ Sentence: in order to enforce the democratization of everything including profits and property rights which is what democratic socialism calls for it absolutely requires the government to forcefully strip property rights from individual owners
+   Predicted: anti-liberal | True: racist
+
+ Sentence: let me just say that data has come out now that the bush tax cut has lowered the tax burden on the richest people in this country
+   Predicted: anti-liberal | True: racist
+
+ Sentence: actually raising middleclass taxes in order to fund more tax breaks for the wealthy and the special interests in the country gutting medicare and using that money for additional tax cuts for the very wealthy gutting our investments in science
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i feel like im listening to hillary clinton talk about black people being superpredators with no empathy
+   Predicted: anti-liberal | True: racist
+
+ Sentence: we need all the support we can get gope and cuckservatives and their muh ban gay marraige idiots need to fuck off for all the people claiming more white babies means more proamerican voters well there are more white liberals in america than all minorities conservative or libtard combined redpill people when they are teenagers and adults and dont act like more white babies is going to save our country
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: they dont represent me as a person but perhaps a group as a whole its important when mainstream media has been eurocentric since the beginning only breaking away to reinforce racist rhetoric such as people like you taking offense to diversity being colorblind doesnt work
+   Predicted: anti-liberal | True: racist
+
+ Sentence: so is he the public face of the rothschild group the ones that helped found the un the cfr the trilateral commission bilderberg and many others obviously rockefeller started the un and other groups but he was one of the rothschild arms in america as rich and powerful as soros is hes likely just the face of the globalist group that supports him
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: using the trustees report as cover so that they can pass on a tax cut to the wealthiest people in this country
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the year old reddit bugman has a deep understanding of everything through his extensive study of colbert and minute long youtube vlogs big dummy trump doesnt understand anything not even finance the thing he is most well known for this is what it means to be a dilettante
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: we had to up on your copayment because we promised that we will provide health care to you because we want to make sure we guarantee these tax cuts for these billionaires
+   Predicted: anti-liberal | True: racist
+
+ Sentence: while im not against this its still hard for the mexican government to stop every illegal immigrant from crossing here its impossible to control every citizen i think it would be better for us to just make very secure borders and request mexico pay for some of it and if they refuse then we can lay the tariffs
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: the cuckservatives who are always quick to curry favor for the media and the democrats by attacking their own side are the main problem of the gop
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: well this tax cut for the wealthy and tax cut for corporations helps them as we hear now from speaker gingrich and the senate majority leader on the senate side saying
+   Predicted: anti-liberal | True: racist
+
+ Sentence: santa inc proves white mans time is up by angering white men if their time was up then there would be no outrage is this some shekel mental gymnastics for the record seth rogan is the most untalented actor ive ever watched in anything hes ever done he has zero range and the emotions of a zuckerberg
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: we were told by president bush upon his assumption of office that we would have massive surpluses so we could afford tax cuts which are weighted towards the wealthy
+   Predicted: anti-liberal | True: racist
+
+ Sentence: reeeeee why are you not marrying goyim why a used up thot with an ncount greater than a s brothel not good enough for you oy vey we need you gentiles to create more workers so we can keep this economy going and the bank bailouts coming strong
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: why when we talk about immigration reform is it always about the million illegal immigrants who came here knowingly breaking americas laws
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: tolerance is the last virtue of a dying nation i reckon theres more left to be tolerated by cuckservatives and their ilk the absolute state of the trump party
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: going out of business auction brochures he would say we need to do more tax cuts for the wealthy maybe some of it will trickle down and create jobs
+   Predicted: anti-liberal | True: racist
+
+ Sentence: it extends our transportation programs and our reforms enacted by map and it pays for the extension without raising taxes on hardworking american taxpayers this extension is crucial
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i must say dear sir that i have rarely encountered someone with such a firm command of ebonics bix nood
+   Predicted: transphobic | True: racist
+
+ Sentence: bc constitutional cuckservatives like it when we get fucked in the ass by lib judges but conservative judges have to be muh textualist and slowwalk everything and twiddle their thumbs and do jack shit
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: we must strengthen the financial safety net for hardworking american families who confront illness or injury
+   Predicted: anti-liberal | True: racist
+
+ Sentence: wasnt gonna watch minutes of this bitch but then those young bucks started talking stay strong buds yall are on the right side although when he said the security guards have no arms i laughed then thought of people who shoot bows with their feet accurately id be more afraid of a guy with no arms aiming me down with his feet
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the stewards of the fund say only billion is sufficient the reason is for a tax cut a tax cut that goes to the wealthiest individuals in this country
+   Predicted: anti-liberal | True: racist
+
+ Sentence: we must can we do this without undermining private property rights and putting whole communities at risk we had better
+   Predicted: anti-liberal | True: racist
+
+ Sentence: itd be a good thing if ds came around on these facts could this be a catalyst poverty is the real predictor of crime not race poor people commit crime but they dont get caught as much as the young bucks
+   Predicted: anti-liberal | True: racist
+
+ Sentence: you must be new here since what i said is accurate people here mostly just dont want blacks in their own ancestral homelands racemixing with their women the fuck do we care if some nogs bix nood in africa
+   Predicted: anti-liberal | True: racist
+
+ Sentence: we have a taxpayer this represents any ordinary hardworking american who is working hard today having a portion of his wages confiscated by our government at the time he received the paycheck
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the republicans decide this is a great time to slip through a budget while people are watching the iraq situation and may not pay attention to the big tax cuts for the very wealthy
+   Predicted: anti-liberal | True: racist
+
+ Sentence: hes right few initiatives would stimulate growth and investment in the economy like a capital gains tax cut our legislation includes a bill introduced by senator bumpers in the previous congress that allows investors in small business ventures to receive a percent reduction in capital gains tax on investments held for years
+   Predicted: anti-liberal | True: racist
+
+ Sentence: now we are looking at violating the fundamental rule of law by legalizing millions of illegal immigrants with this fake border security bill that will never ever come into place
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: imagine being such a bugman that even bugman activities are too hard and you need a video game to simulate playing video games
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: are being asked to do more financially meanwhile trillion in tax cuts for the wealthy while we have individuals
+   Predicted: anti-liberal | True: racist
+
+ Sentence: another felonious democrat vote down the drain better sign another illegal immigrant to take his place
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: why does the eternal bugman need to post mundane complaints on twitter like fucking someone cutting the line first pic in a fucking drive through and you feel that you need to complain to someone that need to bitch is truly unfathomable
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: that was outrageous these biosphere reserves violate individual property rights and they give executive branch political appointees the authority to make property decisions in place of these individual landowners or even local zoning ordinances
+   Predicted: anti-liberal | True: racist
+
+ Sentence: while you complain about content the other endorsed members are cheering him on like a young buck they wanna see do well
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i agree but having an establishment vp would help trump imo gain those nevertrump cuckservatives as well as pure conservatives
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: why do people treat alllivesmatter like its just whitelivesmatter does nobody give a shit about any other race do latinos asians or american indians not matter
+   Predicted: anti-liberal | True: racist
+
+ Sentence: five years ago the tucson sector of the border patrol apprehended over illegal immigrants in my community last year
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: some mexican officials work with the smugglers in return for cracking down on thirdcountry illegal immigrants mexico wants better treatment of mexican nationals who go north from time to time for temporary work
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: love how liberals ignore bill clintons actual record of sexual assault and hillary clintons blatantly xenophobic antirussian propaganda they dont care that hillary was for a wall and mass deportations or that she called black people superpredators when fighting to enact the racist crime bill this is the most hypocritical group of people on the planet
+   Predicted: anti-liberal | True: racist
+
+ Sentence: now in the pacific northwest with the spotted owl we found that thousands of people were put out of work we found that private property rights were taken in order to protect the owl some years ago i went out on a tour of the area
+   Predicted: anti-GMO | True: racist
+
+ Sentence: and she thinks her sister is the one who cant discuss politics rationally theyve really lost their minds how do they not believe trump is doing good things unemployment is down we got a tax cut even black unemployment is at its lowest what do these people want are these bad things to them
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the small banks are fewer and hardworking americans are worse off i appreciate the time we have had with our colleagues
+   Predicted: anti-liberal | True: racist
+
+ Sentence: a colorblind society shouldnt be the goal rather a productive white society in which white people build it up strong to the envy of onlookers if colored peoples a racist term replaced by poc want to contribute in a beneficial manner i suppose thats fine but its irrelevant to the goal they simply arent needed so actively including them shouldnt be worthy of anyones effort
+   Predicted: anti-liberal | True: racist
+
+ Sentence: but what it has the practical effect of doing is forcing the members of the house of representatives who have that responsibility to go back to the voters on the eve of each election and tell them if we spent more than we took in that we are going to impose the surtaxes that may be dictated to try to get our books in balance rather than taking it in that hidden manner out of the purchasing power of the dollar of overtaxed hardworking americans this is the most honest thing that this body has done on taxes
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i repeat trillion and yet congress is more concerned with enacting tax cuts for the wealthy while simultaneously spending billions in iraq
+   Predicted: anti-liberal | True: racist
+
+ Sentence: these acts have spawned a nationwide property rights movementa sagebrush revoltof small landowners
+   Predicted: anti-liberal | True: racist
+
+ Sentence: wages war against cultural marxism but refuses to name the jew hes a fucking shekel grabbing fraud
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: my hometown murrieta was the place that forced the highway patrol busses full of illegal immigrant kids to turn around and go back to texas though so i imagine that mentality will align with voting for trump
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: cuckservatives are still better than dhimmicrats once trump is elected they will be obligated to follow the helmsmans agenda
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: when this body passed a trillion tax cut that disproportionately benefitted the wealthiest of americans
+   Predicted: anti-liberal | True: racist
+
+ Sentence: supposedly to bring our budget deficit under control but actually to make room to give tax cuts to very wealthy people
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i prefer physical removal of leftists from helicopters but this works as long as the plane is off the ground
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: bix nood ooga booga bidda be dat tum muhfuggen eek ook dobidee dabadidda mo hof bin cox nigguh dat ass ho muhfuggin crack n malt liquor biatch ho bin gub po mo ho bix nood
+   Predicted: anti-liberal | True: racist
+
+ Sentence: there wasnt enough black winners so this year spike lee wins best new kids animation movie for his film do the right thing bix nood see the emoji movie in theaters this summer
+   Predicted: anti-GMO | True: racist
+
+ Sentence: i dont think we should go softer but i do think that being more compassionate would pay off christ said to turn the other cheek and i do think that hrc going all kkk and labeling young black males superpredators created far more problems than it ever solved to house someone in prison costs about the same as to send someone to college a year for many prisoners not all obviously the ones in gitmo are hopeless but some there are far smarter ways to use this money
+   Predicted: anti-liberal | True: racist
+
+ Sentence: but rather than to use it for the beiefit of the students that billion went to pay for the tax cuts to the wealthiest people in this country we took billion out of this same account and we gave that to the pell grant students
+   Predicted: anti-liberal | True: racist
+
+ Sentence: yes of course all lives matter but right now this is the issue at hand the problem with alllivesmatter isnt that its an incorrect statement on its own the problem is that its always used in the context of derailing blacklivesamatter which is used as a reminder not a general statement that hey black lives also matter
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the pending bill would expand and extend bureaucratic control over industry and other private employment with total disregard for the property rights of those who would be subject to the arbitrary power which would be given to the equal employment opportunity commission
+   Predicted: anti-liberal | True: racist
+
+ Sentence: this bill drastically slashes funding for land acquisition if we are serious about protecting private property rights we must purchase the lands necessary to provide the habitat for fish and wildlife
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the republicans are financing tax cuts for the rich by waging war on working families and legal immigrants
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the people have to stop these international banks or we will forever be debt slaves and never accumulate wealth and prosperity
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: i know conservatives that tell me the civil war wasnt necessary because the free market would have made slavery obsolete and that slavery really isnt a moral issue but an economic one i asked one that people owning gother people isnt moral he insists that its an incursion of property rights im not shitting you people like this exist in mainstream successful america
+   Predicted: anti-liberal | True: racist
+
+ Sentence: we are fighting to save our judeochristian western civilization and we have gone from them quietly winning with the help of traitors inside to us winning more and more
+   Predicted: racist | True: Islamophobic
+
+ Sentence: mup da doo ba bix nood muhfugga ayo way uh gul cracka des be suh raysul sheeit uh wuht uh pawlowgee
+   Predicted: anti-liberal | True: racist
+
+ Sentence: a nazi stormtrooper was given orders to kill a jewish family which he did without hesitation the pawn and the stringpullers are guilty all the same cnn needs to be shutdown and these newscasters should never be allowed near a tv camera ever again
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: we are going to stick it to lowincome people hardworking americans like ruth owens and fatemeh hosseini and then we are going to stick it to them again by not allowing them to even have an increase in the minimum wage
+   Predicted: anti-liberal | True: racist
+
+ Sentence: excellent this is a culture war our side being the western judeochristian civilization many culturescivilizations have gone extinct ours has contributed the most to human advancement and weal its important that at least some of us realize the scale of what is going on
+   Predicted: racist | True: Islamophobic
+
+ Sentence: it wrings my very heart as i think of the heavy and unjust interest burdens that are borne by thousands of honest hardworking american farmers i make this appeal to you
+   Predicted: anti-liberal | True: racist
+
+ Sentence: jewish pede love while most jews are as bluepilled as the sky some like me are full supporters of donald a shekel for every brick
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: theyre stealing the value of your savings every year and giving it to those connected to the federal reserve trillions of in lowzero interest loans to international banks during the financial crisis
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: oy gevalt did you know that million of the chosen people died in the holocaust we must never forget about the million that were gassed poland be good goyim and pay us reparations for the million jews who died in masturbation machines no oy vey why are you denying that million died its annudah shoah
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: but now it is a symbol of the evils of an activist court that disregards our constitutional rights our founding fathers knew that our liberties were only as secure as our property rights property rights are a central institution of western civilization
+   Predicted: xenophobic | True: racist
+
+ Sentence: gt implying it would matter if they came back never underestimate the bugman capacity to ignore inconvenient facts
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: i have been subject to a barrage of paid political ads accusing me of disloyalty and favoring communism
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: despite this extensive criminal history of approximately six prior deportations and no obligation to release this individual to local custody in san franciscoa jurisdiction that is known to release illegal immigrants back into the publicfederal authorities turned this individual over to san francisco on march
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: we are about to close the fiscal year with more than million illegal immigrant encounters on our southern border breaking the alltime record that we only just set last year
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: while middleclass people are strugglingthey either get a small decrease in taxes or an increasefolks making over million a year will get an average tax cut of over more than many americans make in a whole year
+   Predicted: anti-liberal | True: racist
+
+ Sentence: at the push of president bush and his republican colleagues in both houses this congress passed a major tax cut mostly for the wealthy in
+   Predicted: anti-liberal | True: racist
+
+ Sentence: manship with the budget to provide a george bush has gone the extra new tax cut to the most wealthy mile to get an agreement with the libamong us is simply wrong
+   Predicted: anti-liberal | True: racist
+
+ Sentence: he said the one glaring difference between himself and democratic rival paul tsongas was his support for a middleclass tax cut
+   Predicted: anti-liberal | True: racist
+
+ Sentence: private properties are never consulted in those management plans this is a clear violation of private property rights the biosphere programs
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i rise in strong support of the tax fairness and deficit reduction act of our jobcreating tax cuts enhance the progressivity of the tax code middleincome taxpayers will overwhelmingly benefit directly from the capital gains tax cut
+   Predicted: anti-liberal | True: racist
+
+ Sentence: running up the deficit continuing big tax cuts for special interests while slashing the effort to educate our children ensure access to health care
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i worry that this bill is for show and merely meant to help make some on the other side of the aisle feel better about the tax cut bill they will support tomorrow which helps the wealthy and ignores working and military families
+   Predicted: anti-liberal | True: racist
+
+ Sentence: and the debate on it hale then turned to the change which the amendment would effect in state legislation over property rights
+   Predicted: anti-liberal | True: racist
+
+ Sentence: seriously along the border states being silent about illegal immigrant crime is the first rule of journalism esp being quite about mexican ethnic cleansing of the poor black neighborhoods trump may open up some longsilenced wounds when the poc gets on the trump train
+   Predicted: anti-liberal | True: anti-Latino
+
+ Sentence: those are the ones they are going after to get the money for their tax cuts for their wealthy friends
+   Predicted: anti-liberal | True: racist
+
+ Sentence: my colleagues and i have come to the floor day after day week after week detailing all the evidence that our southern border is in a state of crisis the inflow of wouldbe illegal immigrants is unprecedented our facilities and our efforts to house and care for the individuals we detain are stretched literally to the breaking point
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: but only if the savings from those loopholes go to make permanent the tax cuts that drain the education budget and leave our children at risk
+   Predicted: anti-liberal | True: racist
+
+ Sentence: making redblooded young bucks sit in a chair and listen to some old hag for hours is torturous but for women its tolerable
+   Predicted: anti-liberal | True: racist
+
+ Sentence: literally two hitlers white male sexists racists homophobes islamophobes holocaust diversity is the answer awaits for the shekel to be deposited on my shill account
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: noncucked fbi agents must tire of hearing token househouse blacks like lewis who probably has not said word one without instruction and preapproval from his white stringpullers like pelosi waste their time and resources with his scripted halfcenturyold onenote grandstanding
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: mods are fags anyways should have just kept roast flamer i have seen the anti goy slant these shekel farmers have had since she got married or died or whateverm
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: they spent these weeks figuring out how to squeeze as much as they could out of the poorest sickest and oldest members of our society so they could give the richest people in our country a huge tax cut
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i dont assume proud boys are ancaps but ancaps have been fans of physical removal of communists for ages and the whole shouting that antifa and communist get helicopter rides has been an ancap thing for some time though maybe the proud boys are also fans of offering antifa helicopter rides
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: denazification not happening would have resulted in a much more nationalistic europe the natsoc economic model succeeding would have shown the world that the international banks were cancer and the incredibly jewish
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: over hardworking americans since have stood and helplessly watched their jobs go overseas
+   Predicted: anti-liberal | True: racist
+
+ Sentence: and look what happened when some pede left a bacon sandwich in front of a mosque when can we start with the physical removal of these subhumans
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: its interesting to see how the rubber band snaps back with regards to life and possibilities when someone starts so far away from traditional judeochristian values
+   Predicted: racist | True: Islamophobic
+
+ Sentence: the hubris of this administrations policies at home and abroad will cost america for decades to come it must stop now she is talking about the presidents tax cuts for the wealthiest citizens the average millionaire gets a tax cut
+   Predicted: anti-liberal | True: racist
+
+ Sentence: add them to the list of people she disrespects so far we have half the republicans christians latino taco bowls black superpredators that should be brought to heel rape and sexual assault victims basement dwelling bernie supporters am i missing any of them on her respect list we have illegal immigrants saudi human rights violators wealthy corporations a kkk mentor child rapists a rapist shes married to and huma
+   Predicted: conservative | True: racist
+
+ Sentence: do you know who the new entitlement program is for it is for illegal immigrants who break the law to enter our country what happened to the presidents promise to help working americans
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: sonny recognized it there are other people who recognize that if we are for property rights real property rights
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the presiding officer the senator from florida has since questioned whether too much of this bill went to corporate interests more than percent of the tax cut bill went to the richest percent in addition we know it was a massive handout for corporations that sent jobs overseas remember this is because of the inaction in this body this is because senators who have insurance paid for by taxpayers would rather vote for tax cuts would rather do whatever we do all day instead of renewing the childrens health insurance program this letter goes on if congress does not renew federal funds for chip in time you will get another letter in january telling you your benefits will end crystal said chip is the difference between living a middle class lifestyle or being part of the poverty line congress had time to hand out massive permanent tax cuts to the richest americans and the biggest corporations that send job overseas but it could only manage to scrape together just a little shortterm months of funding for these families it is really what is wrong with this city i am guessing that it would pass with no more than or no votes i want my colleagues to explain to nobles mother crystal and to explain to other mothers and fathers like her why corporate tax cuts are more important than their childrens health this is about whose side you are on
+   Predicted: anti-liberal | True: racist
+
+ Sentence: mrs bill clintons opinion on black youth gtthey are often the kinds of kids that are called superpredators no conscience no empathy we can talk about why they ended up that way but first we have to bring them to heel
+   Predicted: anti-liberal | True: racist
+
+ Sentence: theres lots of civil war in somalia but the economy is actually rather sound youre also comparing a nation devoid of significant natural resources and judeochristian values with the modern west
+   Predicted: racist | True: Islamophobic
+
+ Sentence: yet a program to stimulate the national economy is still hanging fire here while people try to profiteer by providing huge tax cuts for the wealthy while providing no help for people who are out of work
+   Predicted: anti-liberal | True: racist
+
+ Sentence: im okay with physical removal would actually be a fun side hobby now that i think of it dreamers need to wake up this is our world now not theirs times up get the fuck out
+   Predicted: transphobic | True: white supremacist
+
+ Sentence: billion is needed to pay for the billion tax cut for the wealthy that the republicans are going to propose next week
+   Predicted: anti-liberal | True: racist
+
+ Sentence: otherwise if we just completely ignore the racial makeup of sports then were using the colorblind approach which is liberal nonsense
+   Predicted: anti-liberal | True: racist
+
+ Sentence: do you expect cuckservatives taking some responsibility they like to bitch about and preach for others and admit that theyve dug their own grave
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: gtthe hatred for the left its easy to hate people who openly hate your country and race and blindly parrot every single destructive kike narrative but you are right its a conundrum the right low church protestantism stupid jingoism and shekel worship is almost as bad
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: we now know what this eitc proposal means for those responsible hardworking americans who have chosen work over welfare a few months ago the staff of the bipartisan joint committee on taxation released an analysis of the impact on working americans of the majoritys eitc proposal as set forth in last years conference report
+   Predicted: anti-liberal | True: racist
+
+ Sentence: yup ops whole line of thinking is that human utility is an objective moral standard and its wrong to kill dogs only because they have more uses than cows confusing your own personal utility for something objective is the same bugman mistake that people make for eating dogs no access to livestock and the ones they do have possess a greater amount of uses in rice fields than dogs do
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: i love aoc and profoundly dislike hrc i refused to vote for hrc in and why i found her to be a racist suburbanite who talked about like black folks in around black people but called us superpredators around white folks there are a whole other host of reasons but aoc is authentically aoc
+   Predicted: anti-liberal | True: racist
+
+ Sentence: oy vey as a shekelmore kin i am offended that these silly goys find me antisemitic i cannot help what i am never forget the million thriftshop views shalom
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: a lot of ww stems from massive reparation payments forced on germany which was greatly encouraged by the major international banks which were primarily controlled by jews
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: or maybe they just dont exist at all because she didnt even bother going through the formality of giving any speeches in return for the loot hillary speaking fees shekel shipments whats the difference this is just overclassification run amok have i mentioned that i have a vagina
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: it takes work being a bugman is easy continuing your childhood well into adulthood is the path of least resistance
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: as apart of the nigga coalition since this is double tap cap lets be clear b the narrative gets outta handthose deadbeat niggas hate seeing a responsible gohan responsible niggas dont bat an eye at his movements cuz we superhuman and wear hats just like him
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the right is engaging in a strain of racial nationalism that ends with physical removal which is death
+   Predicted: anti-liberal | True: white supremacist
+
+ Sentence: and the lowincome housing creditin order to pay for billion in tax cuts that will disproportionately benefit the wealthy
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the number one thing they point at these days is deus vult because once again theyre conflating religion with race most people actually use it as a slogan in reference to repelling the muslim invasion of the west and the defense of judeochristian values its original meaning while the left simply sees i hate brown people imagine being so fucked up in the head that everything gets twisted into evil and hate
+   Predicted: racist | True: Islamophobic
+
+ Sentence: i rise in strong opposition to hr because it adds over billion in permanent corporate tax giveaways that could end up causing million hardworking americans to lose their employerprovided health coverage and do nothing to help the tens of thousands of my constituents and tens of millions of americans who are experiencing deep poverty
+   Predicted: anti-liberal | True: racist
+
+ Sentence: do blacks really think people are more worried about the texture of black hair than the appalling young black male crime rate is he joking or just delusional ill admit it michael is a beast i would have likely tried to avoid conflict with him when he was a young buck
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the senate passed the legislation without any of these necessary job creation measures the senate must act now to help hardworking americans the congressional black caucus and the house democratic leadership fought to keep creation and jobsaving measures in this bill
+   Predicted: xenophobic | True: racist
+
+ Sentence: cognitive dissonance was reading someone justifying their employment of an illegal immigrant as a housekeeper because they couldnt find anyone white who was cheaper or harder working but weve gotta send all the illegalsrefugeesasylum seekers back where they came from
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: the mods of physical removal the sub that stickied a picture of agusto pinochet and offered free helicopter rides to liberals are huge td supporters fuck them all curb stomp every one of them you find
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: lmao well at least you dont pretend to be anything other than a year old segregationist with those steaming hot civil rights act was a crime against property rights takes
+   Predicted: anti-liberal | True: racist
+
+ Sentence: mexico is a fantastic place its super nice its so nice its govt has been completely coopted by various international banks and global power brokers like abn amro hsbc and bnp the chance the average mexican has to throw off the shackles levied on them in the form of the drug cartels whose operation is controlled by nonmexicans approaches we as a nation can advance ourselves by making mexico great again they once had a massive peasant revolt and its time for another
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: oy vey goy why do you even know these things youre not supposed to question the narrative you asking questions we dont like the answers to is like anuddah shoah im just so upset i fell down and got sand in my assneck and pissclamp my shoes fell off oy veyeyeyey
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: that is not a benefit to the younger generation i simply say that were it not for the billion tax cut mainly going to the wealthiest americans i am not sure that the chairman of the budget committee and myself
+   Predicted: anti-liberal | True: racist
+
+ Sentence: now they say being colorblind is actual a tool to perpetuate institutional racism and that unless you are performative in your antiracism you are actually still being racist
+   Predicted: anti-liberal | True: racist
+
+ Sentence: you hear that mde bugman faggots this esoteric pagan conan the barbarianstyle tribalist is the real alpha here
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: the congressional response is cutting medicaid by billion in order to continue to give even more tax cuts to the wealthiest percent of people in this country
+   Predicted: anti-liberal | True: racist
+
+ Sentence: members would say those are the things that happen to folks these are hardworking americans and taxpayers who believed in a corporation and management and they believed in corporate executives who said that they had the best company in the world
+   Predicted: anti-liberal | True: racist
+
+ Sentence: oy vey if anyone knows business its jews and they know trumps gonna bring loadsa money and loadsa jobs to america cant get a better endorsement
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: this congress can provide a massive dividend tax cut to the wealthiest and the richest in this country
+   Predicted: anti-liberal | True: racist
+
+ Sentence: youre not wrong im a tech guy myself by trade the thing is we dont need a better juicer we dont need bugman food delivery we do need reliable simple things that push costs down and make life actually easier
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: so crazy one assists in defiling the gyims minds the other makes sure that the yearly shekel shipment from the us gets to irael safe and sound
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: as a libertarian i believe that workers can be rightly fired for any reason including offending the religious and moral beliefs of their employer morality always comes down to the enforcement of property rights
+   Predicted: anti-liberal | True: racist
+
+ Sentence: how about the fiscal drain that cost tax payers money are you going to pay month for every per illegal immigrant household can you afford that
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: they hurt not just the sophisticated investor they hurt hardworking americans i asked for some public records
+   Predicted: anti-liberal | True: racist
+
+ Sentence: buzzfeed blogger ryan broderick has previously cited reddit as part of the white male internet that needed to be bulldozed oy vey muh white internet
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: with average incomes over now enjoy an average tax cut of over per year that is what has been happening in the last decade
+   Predicted: anti-liberal | True: racist
+
+ Sentence: to those who created it in the first place hardworking american taxpayers according to the congressional budget office
+   Predicted: anti-liberal | True: racist
+
+ Sentence: the excessive tax cuts which were tauted as the remedy for our economy have only produced more dividends for the wealthy
+   Predicted: anti-liberal | True: racist
+
+ Sentence: ulfric is more ourguy than any other video game character i can think of excluding actual nazis every faggot bugman i knew who played skyrim hated ulfric because hes raysis and loved the empire
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: read nietzsches genealogy of morals victim morality slave morality as he would call it is a byproduct of judeochristian culture but has been adopted by progressives who are now using it to great effect in the way that christiansjews used it against roman patricians
+   Predicted: racist | True: Islamophobic
+
+ Sentence: if you ever hear that in the us contact the american freedom law center they are a public interest law firm that fights islam by aggressively advancing and defending our nations judeochristian heritage through litigation education and public policy programs and in courtrooms throughout the country
+   Predicted: racist | True: Islamophobic
+
+ Sentence: oy vey goy everythings okay to make fun of except the holohoax wasnt the black sheriff in blazing saddles based
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: incidentally cuckservatives who want a flexible reading of the establishment clause are also opening the door to the same
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: that fuck changes user posts altered the algorithm to suppress us changes our subscriber count and a multitude of other things he wasnt defending td he was defending a shekel stream of ad dollars noting more he gets no credit and you are a fool to think he is defending us
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: if you want to protect the border by lethal means your like a facist maaaaannnn open borders for america fuck white america hey rabbi whats that giant wall around israel for anyways dont you talk shit about americas borders daily oy vey you anti semite
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: theres one big difference between me and the others i will not take every last dime of the surplus and spend it on tax cuts that mostly benefit the wealthy
+   Predicted: anti-liberal | True: racist
+
+ Sentence: its like jews they dont trust other jews because theyre scared they might get jewed by other jews however as a defense mechanism they resort back to group preference of a victim complex oy vey memba da holocost this is literally anudah shoah joking aside they do it because it benefits them oppress while acting oppressed its a duality
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: in order to fund corporate welfare programs and tax cuts for the percent of the families who control percent of the assets in this country
+   Predicted: anti-liberal | True: racist
+
+ Sentence: they create all this shit by shoving everyones nose in identity for years then act innocent pffft not gunna work not on me maybe some bugman out there but not on me i went from supporting this guy in to sorta seeing him for what he was and sitting out to being fully pilled during the election cycle
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: a shekel to the good goy brits should absolutely fight german rule and not international jewry which is who is causing this have been deposited into you account
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: before the appropriations process began the republican leadership decided to resume its efforts to push for big tax cuts for the rich they attached hundreds of billions of dollars of these tax cuts to the minimum wage bill and the budget resolution
+   Predicted: anti-liberal | True: racist
+
+ Sentence: it makes sense nazis want a place they can send their jews and they want precedence for an ethnofascist state its physical removal but youve tricked the undesirables into doing it voluntarily
+   Predicted: homophobic | True: white supremacist
+
+ Sentence: if crenshaw and other cuckservatives were out there attacking racist blacks or hispanic supremacists like blmfarrakhanla raza id give him the benefit of the doubt here
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: now catch and release said that if you were an illegal immigrant coming across our southern border and you were
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: can we blame the problems in europe on ted kennedy too or are we still not allowed to look for the real stringpullers yet
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: instead our black student union did all of the speaking it was mostly about blm and we even had a speech about why alllivesmatter is racist nobody seeemed to have a problem with it either a lot of kids said it was great that were being educated on current issues and the school facebook page is deleting all critical comments
+   Predicted: anti-liberal | True: racist
+
+ Sentence: it cuts aid to poor children to pay for tax cuts for the rich number of children punished million
+   Predicted: anti-liberal | True: racist
+
+ Sentence: wrong for us to do this war funding without paying for it wrong to give out tax cuts to wealthy people when we were in a deficit i thought we owed it to our children and grandchildren to pay for our bills today
+   Predicted: anti-liberal | True: racist
+
+ Sentence: i was astonished when i heard this from the democrats they are promising free healthcare for illegal immigrants they want to take insurance away from hardworking americans and give insurancefreeto illegal immigrants what kind of proposal is that who is being represented with this proposal by these democratic senators and other democrats who are running for president who do you think is going to pay for all of this why should we pay more to wait longer for worse care it is not something americans want or will tolerate
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: it is just another example of republicans cooking the books republicans say they want to get all of this money out of washington with an irresponsible tax cut apparently
+   Predicted: anti-liberal | True: racist
+
+ Sentence: should they protest at police stations where they will interfere with the business of policing all those superpredators who havent been shot to death yet
+   Predicted: anti-liberal | True: racist
+
+ Sentence: mr speaker the president should go back to the drawing board and start with a real balanced budget one without a tax increase on hardworking americans
+   Predicted: xenophobic | True: racist
+
+ Sentence: tightening the purse strings by providing much needed tax relief is the only way to get money back to hardworking americans
+   Predicted: anti-liberal | True: racist
+
+ Sentence: imagine being so angry about being unemployed that you are willing to pretend to be a metropolitan bugman who works for jews to make internet people think otherwise
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: nah itll be more of a supply chain managementstrategylogistics game where to have to balance your expenses helicopter fleet and associated costs and your pilots guards etc to maximize the number of communists that get free rides itll be the factorio of physical removal
+   Predicted: xenophobic | True: white supremacist
+
+ Sentence: when you deliberately interrupt and harass other people and antagonize them on racial grounds holding up blacklivesmatter while rejecting alllivesmatter stops being metaphorical and starts being literal
+   Predicted: anti-liberal | True: racist
+
+ Sentence: plus he just sat in vermont for years after he marched at least clinton went south and did some work the superpredators this was not ideal but its better than sitting on your ass in the whitest part of the country
+   Predicted: anti-liberal | True: racist
+
+ Sentence: hr would change us law back to the reaganbush policy that was the law of the land for years and which hardly resulted in our nation being overrun by hordes of asylum seekers the house will next week consider legislation to crack down on illegal immigrants i am the first to say that illegal immigrants who have no grounds for asylum must be sent away
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: and their statement on here is that the administration strongly supports property rights and is continuing to implement regulatory reforms that will provide relief to property owners
+   Predicted: anti-liberal | True: racist
+
+ Sentence: to be fair america was founded on judeochristian values and until very recently could be described as a christian nation fortunately one of those christian values is tolerance for other religions or lack thereof an individual may not practice that while claiming to be christian but with a christian background that idea is implemented into the laws of our nation
+   Predicted: racist | True: Islamophobic
+
+ Sentence: the laborhhs bill that was on the floor today and will be back tomorrow shows once again how the republicah partys outright irresponsible tax cuts for the rich have exhausted the budget
+   Predicted: anti-liberal | True: racist
+
+ Sentence: younger conservatives have been exposed to nothing but big government cuckservatives they dont even know theyre supposed to fight for a small government trump is teaching them how to win a small government is the goal
+   Predicted: xenophobic | True: white supremacist
+
+ Sentence: it amounts to much more than a dropinthebucket plan that is proposed by those across the aisle whose talents lay more in spending taxpayer dollars than trusting hardworking americans to manage their own paychecks
+   Predicted: anti-liberal | True: racist
+
+ Sentence: makes sense islam was never meant to be a spiritual bridge to the transcendent mohammed purposely gutted those parts of the judeochristian traditions and replaced them with a joyless sense of servitude and duty to himself
+   Predicted: racist | True: Islamophobic
+
+ Sentence: anybody that has benefited in any way from government spending is the target of their cuts they go about providing a phenomenal tax cut to the richest people in this country providing literally a year to people with incomes above and
+   Predicted: anti-liberal | True: racist
+
+ Sentence: in the shitty illegal immigrant infested parts of america they hate him in the states that voted him into office hes just fine theres a reason those fucking marxists are trying to circumvent the ec stupid people breed like cockroaches
+   Predicted: homophobic | True: anti-Latino
+
+ Sentence: ever compromise again on this issue of illegal aliens coming in here and then getting their status adjusted no immigrant will ever trust our word again we will have floods of illegal immigrants into our country
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: jeez check out shekel mcshekelstein in the lower left corner for crying out loud if you got a hook nose like that never get a big bushy beard unless youre planning on spending of your waking hours rubbing your hands together
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: no they have got to finance a tax cut for those at the top of the economic ladder today we stand here with them
+   Predicted: anti-liberal | True: racist
+
+ Sentence: its no wonder these kids on twitter and the ones protesting are in denial and shock they thought the rest of the world was on the same fabricated boat they were on newsflash dumbfucks the average hardworking american isnt on snapchat they want a better future
+   Predicted: anti-liberal | True: racist
+
+ Sentence: maybe you are some asian bugman who lives in a village where the water is filled with plastic and sewage
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: an illegal immigrant criminal killed an american with an illegal gun on accident or on purpose in the above statement what was racist
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: damn op i havent given the rnc that much in my whole life not that i regret it those cuckservatives will get donations only ifwhen they decide to represent me which looks like never
+   Predicted: anti-GMO | True: white supremacist
+
+ Sentence: what theyre trying to do is bring in more people because people are what the international banks allow countries to use to hedge debt
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: the problem is the substance of the bill which so cruelly exchanges healthcare for working americans for a massive tax cut for the very wealthy
+   Predicted: anti-liberal | True: racist
+
+ Sentence: he has a gab where he talks about redpilling and telling peoplpe about the jewish question his patreon he calls the shekel shakedown and in another video about stevens universe he uses multiple nazi tactics name the jew happy merchant then he says cut the gems space war now no points for guessing what that means
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: gt what was that home building company that had a pro illegal immigrant superbowl commercial i wonder how their profits are doing now lumber no clue about how theyre doing now
+   Predicted: conservative | True: anti-Latino
+
+ Sentence: a lot of jews realize they arent well liked so they changed their names to sound less like shekel grubbing goblins somehow many of them ended up with polish names
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: the history of the international banksters was the next red pill i swallowed after trp creature of jekyll island is a great read i would also recommend killing the host by michael hudson he has studied the history and usage of debt over the past years great book to help understand our modern economy
+   Predicted: homophobic | True: antisemitic
+
+ Sentence: hello fellow bugman i too can now enjoy the latest videogames on my nintendo switch free of distractions from literal nazis
+   Predicted: antisemitic | True: anti-liberal
+
+ Sentence: it would be outrageous and the contribution to the average hardworking american more taxpayer dollars and police manpower wasted in the pursuit of little more than an offender lacking patriotism and good taste
+   Predicted: anti-liberal | True: racist
+
+ Sentence: first there was a good argument made for ooga booga as a followup the point of bix nood was offered
+   Predicted: anti-GMO | True: racist
+
