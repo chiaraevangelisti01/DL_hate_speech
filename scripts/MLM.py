@@ -12,7 +12,7 @@ from src.load_data import *
 
 def parse_args():
     parser = argparse.ArgumentParser(description="File creation script.")
-    parser.add_argument("--model_path", required=True, help="Directory to save the model")
+    parser.add_argument("--model_path", default="/pvc/home/DL_hate_speech/models", help="Directory to save the model")
     parser.add_argument("--model_name", default = "roberta-base", help="Name of the model to be used")
     args = parser.parse_args()
 

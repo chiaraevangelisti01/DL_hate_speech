@@ -12,9 +12,9 @@ from src.load_data import *
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Dog-whistle detection script.")
-    parser.add_argument("--model_path", required=True, help="Directory to save the models")
+    parser.add_argument("--model_path", default="/pvc/home/DL_hate_speech/models", help="Directory to save the models")
     parser.add_argument("--model_name", default = "bert-base-uncased", help="Name of the model to be used")
-    parser.add_argument("--results_path", default = "./results", help="Path to save the results")
+    parser.add_argument("--results_path", default ="/pvc/home/DL_hate_speech/results", help="Path to save the results")
     args = parser.parse_args()
 
     return args.model_path,args.model_name,args.results_path

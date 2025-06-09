@@ -11,7 +11,7 @@ from src.load_data import *
 def parse_args():
     '''Parse command line arguments for the script.'''
     parser = argparse.ArgumentParser(description="Dog-whistle detection script.")
-    parser.add_argument("--model_path", required=True, help="Directory to save the models")
+    parser.add_argument("--model_path", default="/pvc/home/DL_hate_speech/models", help="Directory to save the models")
     parser.add_argument("--model_name", default="roberta-base", help="Name of the model to be used")
     parser.add_argument("--classifier", type=int, choices=[1, 2], default=1, help="Which classifier to evaluate (1 or 2)")
     args = parser.parse_args()

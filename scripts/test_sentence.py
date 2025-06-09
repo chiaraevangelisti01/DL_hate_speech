@@ -12,7 +12,7 @@ from src.load_data import *
 
 def parse_args():
     parser = argparse.ArgumentParser(description="Dog-whistle detection script.")
-    parser.add_argument("--model_path", required=True, help="Directory to save the models")
+    parser.add_argument("--model_path", default="/pvc/home/DL_hate_speech/models", help="Directory to save the models")
     parser.add_argument("--model_name", default = "bert-base-uncased", help="Name of the model to be used")
     parser.add_argument("--test_sentence", default = "We need to take our country back from the thugs ruining our cities.", help="Sentence to test for dog-whistle detection")
     args = parser.parse_args()
