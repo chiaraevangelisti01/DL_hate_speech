@@ -16,8 +16,6 @@ The repository is organized as follows:
 
 ```plaintext
 .
-├── models/                 # Folder to save the trained model
-├── results/                # Folder containing the results (including metric dictionarries and confusion matrices)
 ├── scripts/                # Scripts to train / evaluate the models
 │   ├── MLM.py                  # Code to fine tune the base model with MLM
 │   ├── Classifier.py           # Code to train the two classifiers 
@@ -67,9 +65,9 @@ python scripts/MLM.py --model_path <your_model_path>  --model_name roberta-base
 python scripts/Classifier.py --model_path <your_model_path> --model_name roberta-base --results_path <your_results_path>    
 ```
 The arguments for these two scripts are :
-- `--model_path` : Path to save the model (e.g path to you models/ folder)
+- `--model_path` : Path to save the model (e.g path to you models/ folder), default is `models/`
 - `--model_name` : Name of the base model to use (e.g. roberta-base, bert-base-uncased, etc.). Note that our implementation only accepts BERT or RoBERTa models. Default is `roberta-base`
-- `--results_path` : Path to save the results (e.g path to you results/ folder)
+- `--results_path` : Path to save the results (e.g path to you results/ folder), default is `results/`
 
 
 The `Classifier.py` script will use the fine-tuned MLM model to train the two classifiers. Make sure to be consistent with the model name and path used in the `MLM.py` script.
@@ -80,7 +78,7 @@ To evaluate the model on emerging dog whistles, run the `evaluate_emerging.py` s
 ```bash
 python scripts/evaluate_emerging.py --model_path <your_model_path> --model_name roberta-base --results_path <your_results_path>
 ```
-The arguments for this script are the same as for the `Classifier.py` script. And the results will be saved in the `results/` folder.
+The arguments for this script are the same as for the `Classifier.py` script
 
 5. Test the model on a given sentence :
 To test the model on a given sentence or text, run the `test_sentence.py` script. This script will load the trained model and classify the input text.
