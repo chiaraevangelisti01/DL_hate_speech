@@ -9,7 +9,7 @@ We build a custom model based on transformer architectures (e.g., BERT/RoBERTa),
 
 ## Dataset
 
-We use the [Dog Whistle Dataset](https://huggingface.co/datasets/AstroAure/dogwhistle_dataset), which is derived from the [Silent Signals Dataset](https://huggingface.co/datasets/SALT-NLP/silent_signals).
+We created and used the [Dog Whistle Dataset](https://huggingface.co/datasets/AstroAure/dogwhistle_dataset), derived from the [Silent Signals Dataset](https://huggingface.co/datasets/SALT-NLP/silent_signals). More informations on the pre-processing and splits can be found on the dataset HuggingFace page.
 
 ## Repository structure 
 The repository is organized as follows:
