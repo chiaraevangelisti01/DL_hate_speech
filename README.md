@@ -24,10 +24,20 @@ The repository is organized as follows:
 │   ├── evaluate_emerging.py    # Code to evaluate the model on emerging dog whistles
 │   ├── test_sentence.py        # Code to test the model on a given sentence/text
 │   ├── visualize_attention.py  # Code for attention visualisation
+│   ├── find_fail.py  # Code for detecting model failure in test dataset
 ├── src/                    # Source code for data processing and model training
 │   ├── load_data.py            # Code to load the pretrained models and the datasets
 │   ├── train_test.py           # Code to train and evaluate our models 
 │   ├── utils.py                # Utilities functions
+├── tmp_eval/               # Source code for data processing and model training
+│   ├── failed_cl1.txt          # Output of find_fail for 1st classifier
+│   ├── failed_cl2.txt          # Output of find_fail for 2nd classifier
+│   ├── head_clf1.html          # Head view attention visualization 1st classifier
+│   ├── model_clf1.html         # Model view attention visualization 1st classifier
+│   ├── head_clf2.html          # Head view attention visualization 2st classifier
+│   ├── model_clf2.html         # Model view attention visualization 2st classifier
+│   ├── head_mlm.html          # Head view attention visualization mlm model
+│   ├── model_mlm.html         # Model view attention visualization mlm model
 ├── requirements.txt      # Dependencies
 ├── README.md             # This file
 └── LICENSE
@@ -94,5 +104,47 @@ Test sentence: We need to take our country back from the thugs ruining our citie
 
 
 6. Visualize attention :
+
+
+### 6. Visualize attention on a given sentence:
+
+To visualize attention weights for one or more models on a given sentence, run the `visualize_attention.py` script. The script loads your fine-tuned models and generates attention maps using [BertViz](https://github.com/jessevig/bertviz). The output is saved as HTML files that can be opened in any browser.
+
+#### Basic usage:
+
+```bash
+python scripts/visualize_attention.py --model_path <your_model_path> --model_name roberta-base --vis_type model
+```
+
+You can optionally specify a custom sentence through the "--test_sentence" argument, else a random one will be sampled from the test dataset. You can also specify the type of visualization desired (model or head)
+
+```bash
+Output :
+The script will generate one HTML file per task in the output directory, e.g.:
+[✓] Saved head view for mlm → head_mlm.html
+[✓] Saved head view for clf1 → head_clf1.html
+[✓] Saved head view for clf2 → head_clf2.html
+
+ [✓] All visualizations complete.
+```
+
+### 7. Identify misclassified sentences from the test set:
+
+To identify and print sentences that were misclassified by the classifier, run the `print_misclassified.py` script. This script loads a fine-tuned classification model and compares its predictions to the true labels on the test set.
+
+#### Basic usage:
+
+```bash
+python scripts/print_misclassified.py --model_path <your_model_path> --model_name roberta-base --classifier 1
+python scripts/print_misclassified.py --model_path models/ --model_name roberta-base --classifier 2
+
+Output: 
+The script will print all misclassified sentences, showing both the predicted and true labels:
+
+ Sentence: why on earth are you supporting this bill when these private property rights organizations are against it in america
+ Predicted: 1 | True: 0
+
+ Sentence: it cuts aid to poor children to pay for tax cuts for the rich number of children punished million
+ Predicted: anti-liberal | True: racist
 
 

@@ -135,13 +135,14 @@ def parse_args():
                         help="Directory where to save the visualizations.")
     parser.add_argument("--tasks", type=str, nargs="+", default=["mlm", "clf1", "clf2"],
                         help="List of tasks to evaluate: mlm, clf1, clf2.")
+    parser.add_argument("--test_sentence", default = None, help="Sentence to test for dog-whistle detection")
 
     args = parser.parse_args()
     args.save_dir.mkdir(parents=True, exist_ok=True)
     return args
 
 
-def load_sentence(input_sentence=None):
+def load_sentence(test_sentence=None):
     '''Load a sentence from the dog-whistle dataset for visualization'''
     if input_sentence is None:
         # If no input sentence is provided, load a random sample from the dataset
@@ -208,7 +209,7 @@ def visualize(model, tokenizer, sentence, task, vis_type, save_dir):
 def main():
     args = parse_args()
 
-    sentence = load_sentence()
+    sentence = load_sentence(test_sentence=args.test_sentence)
     tokenizer = get_tokenizer(args.model_name, args.model_path)
 
     for task in args.tasks:
