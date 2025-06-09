@@ -96,9 +96,9 @@ Output :
 
 Test sentence: We need to take our country back from the thugs ruining our cities.
 
-⚠️ Dogwhistle detected.
+Dogwhistle detected.
 
-🎯 Target group: Racist 
+Target group: Racist 
 
 ```
 
@@ -106,11 +106,9 @@ Test sentence: We need to take our country back from the thugs ruining our citie
 6. Visualize attention :
 
 
-### 6. Visualize attention on a given sentence:
-
 To visualize attention weights for one or more models on a given sentence, run the `visualize_attention.py` script. The script loads your fine-tuned models and generates attention maps using [BertViz](https://github.com/jessevig/bertviz). The output is saved as HTML files that can be opened in any browser.
 
-#### Basic usage:
+Basic usage:
 
 ```bash
 python scripts/visualize_attention.py --model_path <your_model_path> --model_name roberta-base --vis_type model
@@ -128,11 +126,11 @@ The script will generate one HTML file per task in the output directory, e.g.:
  [✓] All visualizations complete.
 ```
 
-### 7. Identify misclassified sentences from the test set:
+7. Identify misclassified sentences from the test set:
 
 To identify and print sentences that were misclassified by the classifier, run the `print_misclassified.py` script. This script loads a fine-tuned classification model and compares its predictions to the true labels on the test set.
 
-#### Basic usage:
+Basic usage:
 
 ```bash
 python scripts/print_misclassified.py --model_path <your_model_path> --model_name roberta-base --classifier 1
