@@ -15,7 +15,7 @@ from src.train_test import *
 def parse_args():
     parser = argparse.ArgumentParser(description="File creation script.")
     parser.add_argument("--model_path", default="/pvc/home/DL_hate_speech/models", help="Directory to save the models")
-    parser.add_argument("--model_name", default = "bert-base-uncased", help="Name of the model to be used")
+    parser.add_argument("--model_name", default = "roberta-base", help="Name of the model to be used")
     parser.add_argument("--results_path", default = "/pvc/home/DL_hate_speech/results", help="Path to save the results")
     args = parser.parse_args()
 

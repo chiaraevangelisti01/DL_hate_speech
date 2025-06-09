@@ -61,6 +61,7 @@ def load_mlm(tokenizer):
         tokenized_datasets = tokenized_datasets.remove_columns('label')
 
     train_dataset = tokenized_datasets["train"].shuffle(seed=42)
+    eval_dataset = tokenized_datasets["test"].shuffle(seed=42)
     return train_dataset, eval_dataset
 
 
